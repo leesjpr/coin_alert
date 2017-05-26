@@ -1,0 +1,12 @@
+pip-selfcheck.json
+diff
+*.swp
+*.bak
+*~
+*.pyc
+
+# virtualenv
+bin
+include
+lib
+lib64
