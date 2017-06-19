@@ -35,7 +35,7 @@ api_secret = "api_secret_key";
 api = XCoinAPI(api_key, api_secret);
 
 rgParams = {
-	"order_currency" : "ETC",
+	"order_currency" : "ETH",
 	"payment_currency" : "KRW"
 };
 

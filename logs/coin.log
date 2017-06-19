@@ -1,0 +1,7 @@
+[2017-06-19 15:28:41] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 15:32:55] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 15:54:02] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 16:13:01] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 16:14:27] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 16:19:33] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
+[2017-06-19 16:20:32] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
