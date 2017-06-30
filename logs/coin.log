@@ -5,3 +5,307 @@
 [2017-06-19 16:14:27] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
 [2017-06-19 16:19:33] [ERROR] :'BaseLogger' object has no attribute 'file_nm'
 [2017-06-19 16:20:32] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:28:34] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:28:48] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:48:03] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:49:51] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:53:33] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:54:18] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 15:54:53] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:10:01] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:10:12] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:10:54] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:28:14] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:38:43] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:39:42] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:41:06] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:41:18] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:43:01] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:43:33] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-27 16:44:57] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:29:38] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:32:01] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:32:41] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:35:46] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:35:57] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:36:20] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:40:30] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:40:49] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:41:08] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:41:26] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:42:13] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:42:27] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:42:29] [ERROR] [request.py(27)]:Exception request_api expected string or buffer
+[2017-06-28 13:46:21] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:46:57] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:48:34] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:48:36] [ERROR] [request.py(27)]:Exception request_api 'Response' object has no attribute 'read'
+[2017-06-28 13:49:38] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:49:41] [ERROR] [request.py(28)]:Exception request_api 'Response' object has no attribute 'read'
+[2017-06-28 13:50:41] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:50:44] [ERROR] [request.py(27)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:51:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:51:53] [ERROR] [request.py(27)]:Exception request_api string indices must be integers
+[2017-06-28 13:52:03] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:52:06] [ERROR] [request.py(27)]:Exception request_api string indices must be integers
+[2017-06-28 13:55:17] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:55:19] [ERROR] [request.py(27)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:56:25] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:56:27] [ERROR] [request.py(28)]:Exception request_api 'Response' object has no attribute 'status'
+[2017-06-28 13:56:52] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:56:55] [ERROR] [request.py(28)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:57:22] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:57:24] [ERROR] [request.py(29)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:57:55] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:57:57] [ERROR] [request.py(26)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:58:11] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:58:14] [ERROR] [request.py(27)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:58:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:58:52] [ERROR] [request.py(27)]:Exception request_api string indices must be integers, not str
+[2017-06-28 13:59:12] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 13:59:14] [ERROR] [request.py(28)]:Exception request_api string indices must be integers, not str
+[2017-06-28 14:00:20] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:00:23] [ERROR] [request.py(29)]:Exception request_api 'module' object has no attribute 'iteral_evel'
+[2017-06-28 14:00:36] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:01:17] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:01:26] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:01:45] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:02:21] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:02:23] [INFO] [request.py(45)]:Response: coin: [btc] date: [1498626144476] buy_price: [3072000],                     sell_price: [3073000]
+[2017-06-28 14:02:26] [INFO] [request.py(45)]:Response: coin: [eth] date: [1498626147135] buy_price: [330900],                     sell_price: [330950]
+[2017-06-28 14:02:28] [INFO] [request.py(45)]:Response: coin: [dash] date: [1498626149884] buy_price: [218200],                     sell_price: [218450]
+[2017-06-28 14:02:31] [INFO] [request.py(45)]:Response: coin: [ltc] date: [1498626152510] buy_price: [47250],                     sell_price: [47650]
+[2017-06-28 14:02:33] [INFO] [request.py(45)]:Response: coin: [etc] date: [1498626154784] buy_price: [21615],                     sell_price: [21640]
+[2017-06-28 14:02:41] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:02:43] [INFO] [request.py(45)]:Response: coin: [btc] date: [1498626164508] buy_price: [3072000],                     sell_price: [3073000]
+[2017-06-28 14:02:46] [INFO] [request.py(45)]:Response: coin: [eth] date: [1498626166744] buy_price: [330550],                     sell_price: [330850]
+[2017-06-28 14:02:48] [INFO] [request.py(45)]:Response: coin: [dash] date: [1498626169100] buy_price: [218100],                     sell_price: [218200]
+[2017-06-28 14:02:50] [INFO] [request.py(45)]:Response: coin: [ltc] date: [1498626171354] buy_price: [47300],                     sell_price: [47650]
+[2017-06-28 14:02:53] [INFO] [request.py(45)]:Response: coin: [etc] date: [1498626173939] buy_price: [21615],                     sell_price: [21625]
+[2017-06-28 14:03:12] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:03:15] [INFO] [request.py(44)]:Response: coin: [btc] date: [1498626195898] buy_price: [3074000], sell_price: [3078000]
+[2017-06-28 14:03:17] [INFO] [request.py(44)]:Response: coin: [eth] date: [1498626198061] buy_price: [330850], sell_price: [330900]
+[2017-06-28 14:03:19] [INFO] [request.py(44)]:Response: coin: [dash] date: [1498626200609] buy_price: [217500], sell_price: [218100]
+[2017-06-28 14:03:22] [INFO] [request.py(44)]:Response: coin: [ltc] date: [1498626203307] buy_price: [47250], sell_price: [47300]
+[2017-06-28 14:03:25] [INFO] [request.py(44)]:Response: coin: [etc] date: [1498626206484] buy_price: [21615], sell_price: [21620]
+[2017-06-28 14:04:33] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:04:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 14:04:53] [INFO] [request.py(45)]:Response: coin: [btc] date: [2017-06-28 14:04:53.848000] buy_price: [3072000], sell_price: [3073000]
+[2017-06-28 14:04:56] [INFO] [request.py(45)]:Response: coin: [eth] date: [2017-06-28 14:04:56.758000] buy_price: [330200], sell_price: [330250]
+[2017-06-28 14:04:58] [INFO] [request.py(45)]:Response: coin: [dash] date: [2017-06-28 14:04:59.351000] buy_price: [217500], sell_price: [218100]
+[2017-06-28 14:05:02] [INFO] [request.py(45)]:Response: coin: [ltc] date: [2017-06-28 14:05:03.072000] buy_price: [47100], sell_price: [47150]
+[2017-06-28 14:05:06] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-28 14:05:07.047000] buy_price: [21520], sell_price: [21550]
+[2017-06-28 17:05:51] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:05:51] [INFO] Scheduler started
+[2017-06-28 17:06:14] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:06:14] [INFO] Scheduler started
+[2017-06-28 17:06:54] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:06:54] [INFO] Scheduler started
+[2017-06-28 17:07:08] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:07:08] [INFO] Scheduler started
+[2017-06-28 17:07:31] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:07:31] [INFO] Scheduler started
+[2017-06-28 17:07:31] [DEBUG] Looking for jobs to run
+[2017-06-28 17:07:31] [DEBUG] No jobs; waiting until a job is added
+[2017-06-28 17:07:34] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-28 17:07:35.872000] buy_price: [21980], sell_price: [22000]
+[2017-06-28 17:07:45] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:07:45] [INFO] Scheduler started
+[2017-06-28 17:07:45] [DEBUG] Looking for jobs to run
+[2017-06-28 17:07:45] [DEBUG] No jobs; waiting until a job is added
+[2017-06-28 17:07:48] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-28 17:07:49.890000] buy_price: [21980], sell_price: [22000]
+[2017-06-28 17:08:03] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-28 17:08:03] [INFO] Scheduler started
+[2017-06-28 17:08:03] [DEBUG] Looking for jobs to run
+[2017-06-28 17:08:03] [DEBUG] No jobs; waiting until a job is added
+[2017-06-28 17:08:07] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-28 17:08:08.367000] buy_price: [22000], sell_price: [22100]
+[2017-06-30 15:02:54] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:02:54] [INFO] Scheduler started
+[2017-06-30 15:02:54] [DEBUG] Looking for jobs to run
+[2017-06-30 15:02:54] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:02:54] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 15:02:55.933000] buy_price: [22030], sell_price: [22090]
+[2017-06-30 15:04:58] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:04:58] [INFO] Scheduler started
+[2017-06-30 15:04:58] [DEBUG] Looking for jobs to run
+[2017-06-30 15:04:58] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:04:58] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 15:04:59.288000] buy_price: [22005], sell_price: [22090]
+[2017-06-30 15:12:44] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:12:44] [INFO] Scheduler started
+[2017-06-30 15:12:44] [DEBUG] Looking for jobs to run
+[2017-06-30 15:12:44] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:48:48] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:48:48] [INFO] Scheduler started
+[2017-06-30 15:48:48] [DEBUG] Looking for jobs to run
+[2017-06-30 15:48:48] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:48:48] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 15:48:48] [DEBUG] Looking for jobs to run
+[2017-06-30 15:48:48] [DEBUG] Next wakeup is due at 2017-06-30 15:48:58.594069+09:00 (in 9.998987 seconds)
+[2017-06-30 15:48:48] [INFO] Scheduler has been shut down
+[2017-06-30 15:48:48] [DEBUG] Looking for jobs to run
+[2017-06-30 15:48:48] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:53:14] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:53:14] [INFO] Scheduler started
+[2017-06-30 15:53:14] [DEBUG] Looking for jobs to run
+[2017-06-30 15:53:14] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:53:14] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 15:53:14] [DEBUG] Looking for jobs to run
+[2017-06-30 15:53:14] [DEBUG] Next wakeup is due at 2017-06-30 15:53:24.573115+09:00 (in 9.998985 seconds)
+[2017-06-30 15:53:31] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:53:31] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 15:53:31] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 15:53:31] [INFO] Scheduler started
+[2017-06-30 15:54:01] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:54:01] [INFO] Scheduler started
+[2017-06-30 15:54:01] [DEBUG] Looking for jobs to run
+[2017-06-30 15:54:01] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:54:01] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 15:54:01] [DEBUG] Looking for jobs to run
+[2017-06-30 15:54:01] [DEBUG] Next wakeup is due at 2017-06-30 15:54:11.036328+09:00 (in 9.999245 seconds)
+[2017-06-30 15:56:55] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:56:55] [INFO] Scheduler started
+[2017-06-30 15:56:55] [DEBUG] Looking for jobs to run
+[2017-06-30 15:56:55] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 15:56:55] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 15:56:55] [DEBUG] Looking for jobs to run
+[2017-06-30 15:56:55] [DEBUG] Next wakeup is due at 2017-06-30 15:57:05.547828+09:00 (in 9.999092 seconds)
+[2017-06-30 15:59:41] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 15:59:41] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:00:30] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:00:30] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:00:43] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:00:43] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:00:43] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:00:43] [INFO] Scheduler started
+[2017-06-30 16:01:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:01:50] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:01:50] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:01:50] [INFO] Scheduler started
+[2017-06-30 16:02:20] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:02:20] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:02:20] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:02:20] [INFO] Scheduler started
+[2017-06-30 16:14:09] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:14:09] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-06-30 16:14:09] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:14:09] [INFO] Scheduler started
+[2017-06-30 16:14:29] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:14:29] [INFO] Scheduler started
+[2017-06-30 16:14:29] [DEBUG] Looking for jobs to run
+[2017-06-30 16:14:29] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 16:14:29] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:14:29] [DEBUG] Looking for jobs to run
+[2017-06-30 16:14:29] [DEBUG] Next wakeup is due at 2017-06-30 16:14:39.780421+09:00 (in 9.999129 seconds)
+[2017-06-30 16:15:39] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:15:39] [INFO] Scheduler started
+[2017-06-30 16:15:39] [DEBUG] Looking for jobs to run
+[2017-06-30 16:15:39] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 16:15:39] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:15:39] [DEBUG] Looking for jobs to run
+[2017-06-30 16:15:39] [DEBUG] Next wakeup is due at 2017-06-30 16:15:49.788641+09:00 (in 9.998991 seconds)
+[2017-06-30 16:16:19] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:16:19] [INFO] Scheduler started
+[2017-06-30 16:16:19] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:19] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 16:16:19] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:16:19] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:19] [DEBUG] Next wakeup is due at 2017-06-30 16:16:29.069509+09:00 (in 9.999438 seconds)
+[2017-06-30 16:16:29] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:29] [DEBUG] Next wakeup is due at 2017-06-30 16:16:39.069509+09:00 (in 9.999544 seconds)
+[2017-06-30 16:16:29] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:39 KST)" (scheduled at 2017-06-30 16:16:29.069509+09:00)
+[2017-06-30 16:16:29] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 16:16:29.688000] buy_price: [22090], sell_price: [22145]
+[2017-06-30 16:16:29] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:39 KST)" executed successfully
+[2017-06-30 16:16:39] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:39] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:39 KST)" (scheduled at 2017-06-30 16:16:39.069509+09:00)
+[2017-06-30 16:16:39] [DEBUG] Next wakeup is due at 2017-06-30 16:16:49.069509+09:00 (in 9.999348 seconds)
+[2017-06-30 16:16:39] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 16:16:39.669000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:16:39] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:49 KST)" executed successfully
+[2017-06-30 16:16:49] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:49] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:49 KST)" (scheduled at 2017-06-30 16:16:49.069509+09:00)
+[2017-06-30 16:16:49] [DEBUG] Next wakeup is due at 2017-06-30 16:16:59.069509+09:00 (in 9.995917 seconds)
+[2017-06-30 16:16:49] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 16:16:49.685000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:16:49] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:59 KST)" executed successfully
+[2017-06-30 16:16:59] [DEBUG] Looking for jobs to run
+[2017-06-30 16:16:59] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:16:59 KST)" (scheduled at 2017-06-30 16:16:59.069509+09:00)
+[2017-06-30 16:16:59] [DEBUG] Next wakeup is due at 2017-06-30 16:17:09.069509+09:00 (in 9.997716 seconds)
+[2017-06-30 16:16:59] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 16:16:59.599000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:16:59] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:09 KST)" executed successfully
+[2017-06-30 16:17:09] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:09] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:09 KST)" (scheduled at 2017-06-30 16:17:09.069509+09:00)
+[2017-06-30 16:17:09] [DEBUG] Next wakeup is due at 2017-06-30 16:17:19.069509+09:00 (in 9.997429 seconds)
+[2017-06-30 16:17:09] [INFO] [request.py(44)]:Response: coin: [etc] date: [2017-06-30 16:17:09.693000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:17:09] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:19 KST)" executed successfully
+[2017-06-30 16:17:15] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:17:15] [INFO] Scheduler started
+[2017-06-30 16:17:15] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:15] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 16:17:15] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 16:17:15] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:15] [DEBUG] Next wakeup is due at 2017-06-30 16:17:25.070369+09:00 (in 9.998800 seconds)
+[2017-06-30 16:17:25] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:25] [DEBUG] Next wakeup is due at 2017-06-30 16:17:35.070369+09:00 (in 9.999546 seconds)
+[2017-06-30 16:17:25] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:35 KST)" (scheduled at 2017-06-30 16:17:25.070369+09:00)
+[2017-06-30 16:17:25] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:17:25.591000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:17:25] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:35 KST)" executed successfully
+[2017-06-30 16:17:35] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:35] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:35 KST)" (scheduled at 2017-06-30 16:17:35.070369+09:00)
+[2017-06-30 16:17:35] [DEBUG] Next wakeup is due at 2017-06-30 16:17:45.070369+09:00 (in 9.998727 seconds)
+[2017-06-30 16:17:35] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:17:35.625000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:17:35] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:45 KST)" executed successfully
+[2017-06-30 16:17:45] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:45] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:45 KST)" (scheduled at 2017-06-30 16:17:45.070369+09:00)
+[2017-06-30 16:17:45] [DEBUG] Next wakeup is due at 2017-06-30 16:17:55.070369+09:00 (in 9.997079 seconds)
+[2017-06-30 16:17:45] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:17:45.635000] buy_price: [22100], sell_price: [22145]
+[2017-06-30 16:17:45] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:55 KST)" executed successfully
+[2017-06-30 16:17:55] [DEBUG] Looking for jobs to run
+[2017-06-30 16:17:55] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:17:55 KST)" (scheduled at 2017-06-30 16:17:55.070369+09:00)
+[2017-06-30 16:17:55] [DEBUG] Next wakeup is due at 2017-06-30 16:18:05.070369+09:00 (in 9.997462 seconds)
+[2017-06-30 16:17:55] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:17:55.633000] buy_price: [22145], sell_price: [22150]
+[2017-06-30 16:17:55] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:05 KST)" executed successfully
+[2017-06-30 16:18:05] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:05] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:05 KST)" (scheduled at 2017-06-30 16:18:05.070369+09:00)
+[2017-06-30 16:18:05] [DEBUG] Next wakeup is due at 2017-06-30 16:18:15.070369+09:00 (in 9.995445 seconds)
+[2017-06-30 16:18:05] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:05.784000] buy_price: [22145], sell_price: [22150]
+[2017-06-30 16:18:05] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:15 KST)" executed successfully
+[2017-06-30 16:18:15] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:15] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:15 KST)" (scheduled at 2017-06-30 16:18:15.070369+09:00)
+[2017-06-30 16:18:15] [DEBUG] Next wakeup is due at 2017-06-30 16:18:25.070369+09:00 (in 9.996435 seconds)
+[2017-06-30 16:18:15] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:15.793000] buy_price: [22145], sell_price: [22150]
+[2017-06-30 16:18:15] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:25 KST)" executed successfully
+[2017-06-30 16:18:25] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:25] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:25 KST)" (scheduled at 2017-06-30 16:18:25.070369+09:00)
+[2017-06-30 16:18:25] [DEBUG] Next wakeup is due at 2017-06-30 16:18:35.070369+09:00 (in 9.997803 seconds)
+[2017-06-30 16:18:25] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:25.693000] buy_price: [22145], sell_price: [22150]
+[2017-06-30 16:18:25] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:35 KST)" executed successfully
+[2017-06-30 16:18:35] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:35] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:35 KST)" (scheduled at 2017-06-30 16:18:35.070369+09:00)
+[2017-06-30 16:18:35] [DEBUG] Next wakeup is due at 2017-06-30 16:18:45.070369+09:00 (in 9.997431 seconds)
+[2017-06-30 16:18:35] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:35.712000] buy_price: [22110], sell_price: [22145]
+[2017-06-30 16:18:35] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:45 KST)" executed successfully
+[2017-06-30 16:18:45] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:45] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:45 KST)" (scheduled at 2017-06-30 16:18:45.070369+09:00)
+[2017-06-30 16:18:45] [DEBUG] Next wakeup is due at 2017-06-30 16:18:55.070369+09:00 (in 9.997156 seconds)
+[2017-06-30 16:18:45] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:45.632000] buy_price: [22110], sell_price: [22145]
+[2017-06-30 16:18:45] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:55 KST)" executed successfully
+[2017-06-30 16:18:55] [DEBUG] Looking for jobs to run
+[2017-06-30 16:18:55] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:18:55 KST)" (scheduled at 2017-06-30 16:18:55.070369+09:00)
+[2017-06-30 16:18:55] [DEBUG] Next wakeup is due at 2017-06-30 16:19:05.070369+09:00 (in 9.996846 seconds)
+[2017-06-30 16:18:55] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:18:55.635000] buy_price: [22110], sell_price: [22145]
+[2017-06-30 16:18:55] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:19:05 KST)" executed successfully
+[2017-06-30 16:19:05] [DEBUG] Looking for jobs to run
+[2017-06-30 16:19:05] [INFO] Running job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:19:05 KST)" (scheduled at 2017-06-30 16:19:05.070369+09:00)
+[2017-06-30 16:19:05] [DEBUG] Next wakeup is due at 2017-06-30 16:19:15.070369+09:00 (in 9.997272 seconds)
+[2017-06-30 16:19:05] [INFO] [request.py(45)]:Response: coin: [etc] date: [2017-06-30 16:19:05.609000] buy_price: [22110], sell_price: [22140]
+[2017-06-30 16:19:05] [INFO] Job "QueryCoin.query_current_price (trigger: interval[0:00:10], next run at: 2017-06-30 16:19:15 KST)" executed successfully
+[2017-06-30 16:30:09] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:30:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:31:22] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 16:32:55] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 17:06:31] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 17:11:24] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 17:11:57] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 17:12:22] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-06-30 17:12:22] [INFO] Scheduler started
+[2017-06-30 17:12:22] [DEBUG] Looking for jobs to run
+[2017-06-30 17:12:22] [DEBUG] No jobs; waiting until a job is added
+[2017-06-30 17:12:22] [INFO] Added job "QueryCoin.query_current_price" to job store "default"
+[2017-06-30 17:12:22] [DEBUG] Looking for jobs to run
+[2017-06-30 17:12:22] [DEBUG] Next wakeup is due at 2017-06-30 17:12:32.018708+09:00 (in 9.999346 seconds)

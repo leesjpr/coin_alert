@@ -1,11 +1,14 @@
 import ConfigParser
+from daemon import runner
 import getopt
 import io
 import sys
 
-import log_util
 import exception as exc
+import log_util
+from request import QueryCoin
 from single_instance import SingleInstance
+
 
 
 def usage():
@@ -48,30 +51,32 @@ def read_setting(file_path):
     try:
         config = ConfigParser.ConfigParser()
         config.read(file_path)
-        log_conf = config.get('logging', 'config')
-        targets = config.get('target', 'coins').replace(' ', '').split(',')
 
-        settings['logging'] = log_conf
+        sections = config.sections()
 
-        for target in targets:
-            options = config.options(target)
-            settings[target] = dict()
-            for option in options:
-                settings[target][option] = config.get(target, option)
+        if len(sections) != 0:
+            for section in sections:
+                settings[section] = {}
+                options = config.options(section)
+                for option in options:
+                    settings[section][option] = config.get(section, option)
+
+        coins = settings['target']['coins'].split(',')
+        for coin in coins:
+            coin_options = config.options(coin)
+            for coin_option in coin_options:
+                settings[coin][coin_option] = config.get(coin, coin_option)
 
         SingleInstance.set('settings', settings)
-    except exc.configParsingError, err:
+    except exc.ConfigParsingError, err:
         log_util.logging.error(str(err))
-
-
-
 
 
 if __name__ == '__main__':
     settings_file = arg_read()
     read_setting(settings_file)
     settings = SingleInstance.get('settings')
-    log_conf = settings['logging']
+    log_conf = settings['logging']['config']
 
     try:
         base_log = log_util.BaseLogger(log_conf)
@@ -80,3 +85,5 @@ if __name__ == '__main__':
         sys.exit(1)
 
     SingleInstance.set('log', base_log)
+    query = QueryCoin()
+    query.query_scheduler()
