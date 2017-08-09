@@ -72,6 +72,8 @@ class XCoinAPI:
 		utf8_hmac_key = hmac_key.encode('utf-8');
 
 		hmac_data = endpoint + chr(0) + e_uri_data + chr(0) + nonce;
+
+                print hmac_data
 		utf8_hmac_data = hmac_data.encode('utf-8');
 
 		hmh = hmac.new(bytes(utf8_hmac_key), utf8_hmac_data, hashlib.sha512);
