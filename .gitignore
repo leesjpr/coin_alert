@@ -4,6 +4,8 @@ diff
 *.bak
 *~
 *.pyc
+*.out
+*.log
 
 # virtualenv
 bin

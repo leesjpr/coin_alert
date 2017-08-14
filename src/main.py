@@ -1,5 +1,4 @@
 import ConfigParser
-from daemon import runner
 import getopt
 import io
 import sys
