@@ -1,0 +1,1330 @@
+[2017-08-14 14:43:02] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:44:07] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:44:50] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:45:53] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:48:35] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:48:35] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:48:35] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:48:35] [INFO] Scheduler started
+[2017-08-14 14:48:35] [DEBUG] Looking for jobs to run
+[2017-08-14 14:48:35] [DEBUG] Next wakeup is due at 2017-08-14 14:48:45.401599+09:00 (in 9.999131 seconds)
+[2017-08-14 14:48:45] [DEBUG] Looking for jobs to run
+[2017-08-14 14:48:45] [DEBUG] Next wakeup is due at 2017-08-14 14:48:55.401599+09:00 (in 9.999678 seconds)
+[2017-08-14 14:48:45] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:48:55 KST)" (scheduled at 2017-08-14 14:48:45.401599+09:00)
+[2017-08-14 14:48:46] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:48:46] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:48:55 KST)" executed successfully
+[2017-08-14 14:48:55] [DEBUG] Looking for jobs to run
+[2017-08-14 14:48:55] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:48:55 KST)" (scheduled at 2017-08-14 14:48:55.401599+09:00)
+[2017-08-14 14:48:55] [DEBUG] Next wakeup is due at 2017-08-14 14:49:05.401599+09:00 (in 9.999296 seconds)
+[2017-08-14 14:48:55] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:48:55] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:05 KST)" executed successfully
+[2017-08-14 14:49:05] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:05] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:05 KST)" (scheduled at 2017-08-14 14:49:05.401599+09:00)
+[2017-08-14 14:49:05] [DEBUG] Next wakeup is due at 2017-08-14 14:49:15.401599+09:00 (in 9.998567 seconds)
+[2017-08-14 14:49:06] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:49:06] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:15 KST)" executed successfully
+[2017-08-14 14:49:13] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:49:13] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:49:13] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:49:13] [INFO] Scheduler started
+[2017-08-14 14:49:13] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:13] [DEBUG] Next wakeup is due at 2017-08-14 14:49:23.238734+09:00 (in 9.998852 seconds)
+[2017-08-14 14:49:23] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:23] [DEBUG] Next wakeup is due at 2017-08-14 14:49:33.238734+09:00 (in 9.999507 seconds)
+[2017-08-14 14:49:23] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:33 KST)" (scheduled at 2017-08-14 14:49:23.238734+09:00)
+[2017-08-14 14:49:23] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:49:23] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:33 KST)" executed successfully
+[2017-08-14 14:49:33] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:33] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:33 KST)" (scheduled at 2017-08-14 14:49:33.238734+09:00)
+[2017-08-14 14:49:33] [DEBUG] Next wakeup is due at 2017-08-14 14:49:43.238734+09:00 (in 9.999391 seconds)
+[2017-08-14 14:49:33] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:49:33] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:43 KST)" executed successfully
+[2017-08-14 14:49:43] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:43] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:43 KST)" (scheduled at 2017-08-14 14:49:43.238734+09:00)
+[2017-08-14 14:49:43] [DEBUG] Next wakeup is due at 2017-08-14 14:49:53.238734+09:00 (in 9.997237 seconds)
+[2017-08-14 14:49:43] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:49:43] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:49:53 KST)" executed successfully
+[2017-08-14 14:49:49] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:49:49] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:49:49] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:49:49] [INFO] Scheduler started
+[2017-08-14 14:49:49] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:49] [DEBUG] Next wakeup is due at 2017-08-14 14:49:59.309062+09:00 (in 9.999018 seconds)
+[2017-08-14 14:49:59] [DEBUG] Looking for jobs to run
+[2017-08-14 14:49:59] [DEBUG] Next wakeup is due at 2017-08-14 14:50:09.309062+09:00 (in 9.999674 seconds)
+[2017-08-14 14:49:59] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:09 KST)" (scheduled at 2017-08-14 14:49:59.309062+09:00)
+[2017-08-14 14:49:59] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:49:59] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:09 KST)" executed successfully
+[2017-08-14 14:50:09] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:09] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:09 KST)" (scheduled at 2017-08-14 14:50:09.309062+09:00)
+[2017-08-14 14:50:09] [DEBUG] Next wakeup is due at 2017-08-14 14:50:19.309062+09:00 (in 9.999308 seconds)
+[2017-08-14 14:50:10] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:50:10] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:19 KST)" executed successfully
+[2017-08-14 14:50:19] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:19] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:19 KST)" (scheduled at 2017-08-14 14:50:19.309062+09:00)
+[2017-08-14 14:50:19] [DEBUG] Next wakeup is due at 2017-08-14 14:50:29.309062+09:00 (in 9.991802 seconds)
+[2017-08-14 14:50:19] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:50:19] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:29 KST)" executed successfully
+[2017-08-14 14:50:29] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:29] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:29 KST)" (scheduled at 2017-08-14 14:50:29.309062+09:00)
+[2017-08-14 14:50:29] [DEBUG] Next wakeup is due at 2017-08-14 14:50:39.309062+09:00 (in 9.997803 seconds)
+[2017-08-14 14:50:29] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:50:29] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:39 KST)" executed successfully
+[2017-08-14 14:50:39] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:39] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:39 KST)" (scheduled at 2017-08-14 14:50:39.309062+09:00)
+[2017-08-14 14:50:39] [DEBUG] Next wakeup is due at 2017-08-14 14:50:49.309062+09:00 (in 9.998040 seconds)
+[2017-08-14 14:50:39] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:50:39] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:50:49 KST)" executed successfully
+[2017-08-14 14:50:42] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:50:42] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:50:42] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:50:42] [INFO] Scheduler started
+[2017-08-14 14:50:42] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:42] [DEBUG] Next wakeup is due at 2017-08-14 14:50:52.381464+09:00 (in 9.998971 seconds)
+[2017-08-14 14:50:52] [DEBUG] Looking for jobs to run
+[2017-08-14 14:50:52] [DEBUG] Next wakeup is due at 2017-08-14 14:51:02.381464+09:00 (in 9.999677 seconds)
+[2017-08-14 14:50:52] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:02 KST)" (scheduled at 2017-08-14 14:50:52.381464+09:00)
+[2017-08-14 14:50:52] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:50:52.847000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:50:52] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:50:52.847000] buy_price:[361000] sell_price:[361900]
+[2017-08-14 14:50:52] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:50:52.847000] buy_price:[229550] sell_price:[229950]
+[2017-08-14 14:50:52] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:50:52.847000] buy_price:[16555] sell_price:[16560]
+[2017-08-14 14:50:52] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:50:52.847000] buy_price:[4656000] sell_price:[4657000]
+[2017-08-14 14:50:52] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:50:52] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:02 KST)" executed successfully
+[2017-08-14 14:51:02] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:02] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:02 KST)" (scheduled at 2017-08-14 14:51:02.381464+09:00)
+[2017-08-14 14:51:02] [DEBUG] Next wakeup is due at 2017-08-14 14:51:12.381464+09:00 (in 9.999402 seconds)
+[2017-08-14 14:51:02] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:02.911000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:51:02] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:02.911000] buy_price:[361000] sell_price:[361900]
+[2017-08-14 14:51:02] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:02.911000] buy_price:[229550] sell_price:[229950]
+[2017-08-14 14:51:02] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:02.911000] buy_price:[16555] sell_price:[16560]
+[2017-08-14 14:51:02] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:02.911000] buy_price:[4650000] sell_price:[4657000]
+[2017-08-14 14:51:02] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:02] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:12 KST)" executed successfully
+[2017-08-14 14:51:12] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:12] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:12 KST)" (scheduled at 2017-08-14 14:51:12.381464+09:00)
+[2017-08-14 14:51:12] [DEBUG] Next wakeup is due at 2017-08-14 14:51:22.381464+09:00 (in 9.997505 seconds)
+[2017-08-14 14:51:12] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:12.867000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:51:12] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:12.867000] buy_price:[361000] sell_price:[361900]
+[2017-08-14 14:51:12] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:12.867000] buy_price:[229550] sell_price:[229950]
+[2017-08-14 14:51:12] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:12.867000] buy_price:[16550] sell_price:[16555]
+[2017-08-14 14:51:12] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:12.867000] buy_price:[4646000] sell_price:[4649000]
+[2017-08-14 14:51:12] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:12] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:22 KST)" executed successfully
+[2017-08-14 14:51:22] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:22] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:22 KST)" (scheduled at 2017-08-14 14:51:22.381464+09:00)
+[2017-08-14 14:51:22] [DEBUG] Next wakeup is due at 2017-08-14 14:51:32.381464+09:00 (in 9.997565 seconds)
+[2017-08-14 14:51:22] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:22.932000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:51:22] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:22.932000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:51:22] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:22.932000] buy_price:[229550] sell_price:[229950]
+[2017-08-14 14:51:22] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:22.932000] buy_price:[16550] sell_price:[16555]
+[2017-08-14 14:51:22] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:22.932000] buy_price:[4646000] sell_price:[4648000]
+[2017-08-14 14:51:22] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:22] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:32 KST)" executed successfully
+[2017-08-14 14:51:32] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:32] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:32 KST)" (scheduled at 2017-08-14 14:51:32.381464+09:00)
+[2017-08-14 14:51:32] [DEBUG] Next wakeup is due at 2017-08-14 14:51:42.381464+09:00 (in 9.997762 seconds)
+[2017-08-14 14:51:32] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:33.181000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:51:32] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:33.181000] buy_price:[360900] sell_price:[362000]
+[2017-08-14 14:51:32] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:33.181000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:51:32] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:33.181000] buy_price:[16555] sell_price:[16560]
+[2017-08-14 14:51:32] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:33.181000] buy_price:[4653000] sell_price:[4655000]
+[2017-08-14 14:51:32] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:32] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:42 KST)" executed successfully
+[2017-08-14 14:51:42] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:42] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:42 KST)" (scheduled at 2017-08-14 14:51:42.381464+09:00)
+[2017-08-14 14:51:42] [DEBUG] Next wakeup is due at 2017-08-14 14:51:52.381464+09:00 (in 9.997165 seconds)
+[2017-08-14 14:51:42] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:43.127000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:51:42] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:43.127000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:51:42] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:43.127000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:51:42] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:43.127000] buy_price:[16530] sell_price:[16560]
+[2017-08-14 14:51:42] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:43.127000] buy_price:[4645000] sell_price:[4657000]
+[2017-08-14 14:51:42] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:42] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:52 KST)" executed successfully
+[2017-08-14 14:51:52] [DEBUG] Looking for jobs to run
+[2017-08-14 14:51:52] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:51:52 KST)" (scheduled at 2017-08-14 14:51:52.381464+09:00)
+[2017-08-14 14:51:52] [DEBUG] Next wakeup is due at 2017-08-14 14:52:02.381464+09:00 (in 9.998537 seconds)
+[2017-08-14 14:51:52] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:51:53.145000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:51:52] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:51:53.145000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:51:52] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:51:53.145000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:51:52] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:51:53.145000] buy_price:[16530] sell_price:[16560]
+[2017-08-14 14:51:52] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:51:53.145000] buy_price:[4651000] sell_price:[4653000]
+[2017-08-14 14:51:52] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:51:52] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:02 KST)" executed successfully
+[2017-08-14 14:52:02] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:02] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:02 KST)" (scheduled at 2017-08-14 14:52:02.381464+09:00)
+[2017-08-14 14:52:02] [DEBUG] Next wakeup is due at 2017-08-14 14:52:12.381464+09:00 (in 9.998243 seconds)
+[2017-08-14 14:52:02] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:03.079000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:02] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:03.079000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:52:02] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:03.079000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:52:02] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:03.079000] buy_price:[16530] sell_price:[16560]
+[2017-08-14 14:52:02] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:03.079000] buy_price:[4646000] sell_price:[4655000]
+[2017-08-14 14:52:02] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:02] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:12 KST)" executed successfully
+[2017-08-14 14:52:12] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:12] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:12 KST)" (scheduled at 2017-08-14 14:52:12.381464+09:00)
+[2017-08-14 14:52:12] [DEBUG] Next wakeup is due at 2017-08-14 14:52:22.381464+09:00 (in 9.997285 seconds)
+[2017-08-14 14:52:12] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:12.869000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:12] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:12.869000] buy_price:[360600] sell_price:[362000]
+[2017-08-14 14:52:12] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:12.869000] buy_price:[229700] sell_price:[229900]
+[2017-08-14 14:52:12] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:12.869000] buy_price:[16540] sell_price:[16560]
+[2017-08-14 14:52:12] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:12.869000] buy_price:[4645000] sell_price:[4646000]
+[2017-08-14 14:52:12] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:12] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:22 KST)" executed successfully
+[2017-08-14 14:52:22] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:22] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:22 KST)" (scheduled at 2017-08-14 14:52:22.381464+09:00)
+[2017-08-14 14:52:22] [DEBUG] Next wakeup is due at 2017-08-14 14:52:32.381464+09:00 (in 9.997421 seconds)
+[2017-08-14 14:52:22] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:22.901000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:22] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:22.901000] buy_price:[360700] sell_price:[361900]
+[2017-08-14 14:52:22] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:22.901000] buy_price:[229700] sell_price:[229900]
+[2017-08-14 14:52:22] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:22.901000] buy_price:[16540] sell_price:[16560]
+[2017-08-14 14:52:22] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:22.901000] buy_price:[4646000] sell_price:[4652000]
+[2017-08-14 14:52:22] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:22] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:32 KST)" executed successfully
+[2017-08-14 14:52:32] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:32] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:32 KST)" (scheduled at 2017-08-14 14:52:32.381464+09:00)
+[2017-08-14 14:52:32] [DEBUG] Next wakeup is due at 2017-08-14 14:52:42.381464+09:00 (in 9.997740 seconds)
+[2017-08-14 14:52:32] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:32.965000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:32] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:32.965000] buy_price:[360800] sell_price:[361900]
+[2017-08-14 14:52:32] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:32.965000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:52:32] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:32.965000] buy_price:[16540] sell_price:[16560]
+[2017-08-14 14:52:32] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:32.965000] buy_price:[4651000] sell_price:[4653000]
+[2017-08-14 14:52:32] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:32] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:42 KST)" executed successfully
+[2017-08-14 14:52:42] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:42] [DEBUG] Next wakeup is due at 2017-08-14 14:52:52.381464+09:00 (in 9.997531 seconds)
+[2017-08-14 14:52:42] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:52 KST)" (scheduled at 2017-08-14 14:52:42.381464+09:00)
+[2017-08-14 14:52:44] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:44.617000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:44] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:44.617000] buy_price:[360800] sell_price:[361900]
+[2017-08-14 14:52:44] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:44.617000] buy_price:[229550] sell_price:[229900]
+[2017-08-14 14:52:44] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:44.617000] buy_price:[16540] sell_price:[16560]
+[2017-08-14 14:52:44] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:44.617000] buy_price:[4651000] sell_price:[4653000]
+[2017-08-14 14:52:44] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:44] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:52:52 KST)" executed successfully
+[2017-08-14 14:52:52] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:52] [DEBUG] Next wakeup is due at 2017-08-14 14:53:02.381464+09:00 (in 9.999457 seconds)
+[2017-08-14 14:52:52] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:02 KST)" (scheduled at 2017-08-14 14:52:52.381464+09:00)
+[2017-08-14 14:52:52] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:52:52.805000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:52:52] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:52:52.805000] buy_price:[360800] sell_price:[361900]
+[2017-08-14 14:52:52] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:52:52.805000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:52:52] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:52:52.805000] buy_price:[16540] sell_price:[16560]
+[2017-08-14 14:52:52] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:52:52.805000] buy_price:[4651000] sell_price:[4652000]
+[2017-08-14 14:52:52] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:52:52] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:02 KST)" executed successfully
+[2017-08-14 14:52:54] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:52:54] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:52:54] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:52:54] [INFO] Scheduler started
+[2017-08-14 14:52:54] [DEBUG] Looking for jobs to run
+[2017-08-14 14:52:54] [DEBUG] Next wakeup is due at 2017-08-14 14:53:04.494937+09:00 (in 9.998955 seconds)
+[2017-08-14 14:53:04] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:04] [DEBUG] Next wakeup is due at 2017-08-14 14:53:14.494937+09:00 (in 9.999470 seconds)
+[2017-08-14 14:53:04] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:14 KST)" (scheduled at 2017-08-14 14:53:04.494937+09:00)
+[2017-08-14 14:53:04] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:05.169000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:04] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:05.169000] buy_price:[360900] sell_price:[361900]
+[2017-08-14 14:53:04] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:05.169000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:04] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:05.169000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:04] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:05.169000] buy_price:[4646000] sell_price:[4651000]
+[2017-08-14 14:53:04] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:04] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:14 KST)" executed successfully
+[2017-08-14 14:53:14] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:14] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:14 KST)" (scheduled at 2017-08-14 14:53:14.494937+09:00)
+[2017-08-14 14:53:14] [DEBUG] Next wakeup is due at 2017-08-14 14:53:24.494937+09:00 (in 9.998564 seconds)
+[2017-08-14 14:53:14] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:14.969000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:14] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:14.969000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:53:14] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:14.969000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:14] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:14.969000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:14] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:14.969000] buy_price:[4650000] sell_price:[4651000]
+[2017-08-14 14:53:14] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:14] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:24 KST)" executed successfully
+[2017-08-14 14:53:24] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:24] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:24 KST)" (scheduled at 2017-08-14 14:53:24.494937+09:00)
+[2017-08-14 14:53:24] [DEBUG] Next wakeup is due at 2017-08-14 14:53:34.494937+09:00 (in 9.998125 seconds)
+[2017-08-14 14:53:24] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:24.971000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:24] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:24.971000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:53:24] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:24.971000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:24] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:24.971000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:24] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:24.971000] buy_price:[4647000] sell_price:[4650000]
+[2017-08-14 14:53:24] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:24] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:34 KST)" executed successfully
+[2017-08-14 14:53:34] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:34] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:34 KST)" (scheduled at 2017-08-14 14:53:34.494937+09:00)
+[2017-08-14 14:53:34] [DEBUG] Next wakeup is due at 2017-08-14 14:53:44.494937+09:00 (in 9.997446 seconds)
+[2017-08-14 14:53:34] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:35.235000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:34] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:35.235000] buy_price:[361100] sell_price:[362000]
+[2017-08-14 14:53:34] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:35.235000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:34] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:35.235000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:34] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:35.235000] buy_price:[4646000] sell_price:[4650000]
+[2017-08-14 14:53:34] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:34] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:44 KST)" executed successfully
+[2017-08-14 14:53:44] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:44] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:44 KST)" (scheduled at 2017-08-14 14:53:44.494937+09:00)
+[2017-08-14 14:53:44] [DEBUG] Next wakeup is due at 2017-08-14 14:53:54.494937+09:00 (in 9.998043 seconds)
+[2017-08-14 14:53:44] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:44.942000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:44] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:44.942000] buy_price:[361000] sell_price:[362000]
+[2017-08-14 14:53:44] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:44.942000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:44] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:44.942000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:44] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:44.942000] buy_price:[4646000] sell_price:[4650000]
+[2017-08-14 14:53:44] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:44] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:54 KST)" executed successfully
+[2017-08-14 14:53:54] [DEBUG] Looking for jobs to run
+[2017-08-14 14:53:54] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:53:54 KST)" (scheduled at 2017-08-14 14:53:54.494937+09:00)
+[2017-08-14 14:53:54] [DEBUG] Next wakeup is due at 2017-08-14 14:54:04.494937+09:00 (in 9.998093 seconds)
+[2017-08-14 14:53:55] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:53:55.400000] buy_price:[52840] sell_price:[52850]
+[2017-08-14 14:53:55] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:53:55.400000] buy_price:[361100] sell_price:[362000]
+[2017-08-14 14:53:55] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:53:55.400000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:53:55] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:53:55.400000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:53:55] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:53:55.400000] buy_price:[4647000] sell_price:[4650000]
+[2017-08-14 14:53:55] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:53:55] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:04 KST)" executed successfully
+[2017-08-14 14:54:04] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:04] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:04 KST)" (scheduled at 2017-08-14 14:54:04.494937+09:00)
+[2017-08-14 14:54:04] [DEBUG] Next wakeup is due at 2017-08-14 14:54:14.494937+09:00 (in 9.997861 seconds)
+[2017-08-14 14:54:04] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:04.991000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:54:04] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:04.991000] buy_price:[361100] sell_price:[362000]
+[2017-08-14 14:54:04] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:04.991000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:04] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:04.991000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:54:04] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:04.991000] buy_price:[4647000] sell_price:[4650000]
+[2017-08-14 14:54:04] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:04] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:14 KST)" executed successfully
+[2017-08-14 14:54:14] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:14] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:14 KST)" (scheduled at 2017-08-14 14:54:14.494937+09:00)
+[2017-08-14 14:54:14] [DEBUG] Next wakeup is due at 2017-08-14 14:54:24.494937+09:00 (in 9.997591 seconds)
+[2017-08-14 14:54:14] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:15.009000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:54:14] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:15.009000] buy_price:[362000] sell_price:[362100]
+[2017-08-14 14:54:14] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:15.009000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:14] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:15.009000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:54:14] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:15.009000] buy_price:[4648000] sell_price:[4650000]
+[2017-08-14 14:54:14] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:14] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:24 KST)" executed successfully
+[2017-08-14 14:54:24] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:24] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:24 KST)" (scheduled at 2017-08-14 14:54:24.494937+09:00)
+[2017-08-14 14:54:24] [DEBUG] Next wakeup is due at 2017-08-14 14:54:34.494937+09:00 (in 9.997737 seconds)
+[2017-08-14 14:54:24] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:25.017000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:54:24] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:25.017000] buy_price:[362000] sell_price:[362100]
+[2017-08-14 14:54:24] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:25.017000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:24] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:25.017000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:54:24] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:25.017000] buy_price:[4648000] sell_price:[4650000]
+[2017-08-14 14:54:24] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:24] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:34 KST)" executed successfully
+[2017-08-14 14:54:34] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:34] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:34 KST)" (scheduled at 2017-08-14 14:54:34.494937+09:00)
+[2017-08-14 14:54:34] [DEBUG] Next wakeup is due at 2017-08-14 14:54:44.494937+09:00 (in 9.997765 seconds)
+[2017-08-14 14:54:34] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:34.995000] buy_price:[52850] sell_price:[52860]
+[2017-08-14 14:54:34] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:34.995000] buy_price:[362000] sell_price:[362100]
+[2017-08-14 14:54:34] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:34.995000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:34] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:34.995000] buy_price:[16545] sell_price:[16585]
+[2017-08-14 14:54:34] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:34.995000] buy_price:[4648000] sell_price:[4650000]
+[2017-08-14 14:54:34] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:34] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:44 KST)" executed successfully
+[2017-08-14 14:54:44] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:44] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:44 KST)" (scheduled at 2017-08-14 14:54:44.494937+09:00)
+[2017-08-14 14:54:44] [DEBUG] Next wakeup is due at 2017-08-14 14:54:54.494937+09:00 (in 9.998362 seconds)
+[2017-08-14 14:54:45] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:45.384000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:54:45] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:45.384000] buy_price:[362000] sell_price:[363500]
+[2017-08-14 14:54:45] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:45.384000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:45] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:45.384000] buy_price:[16560] sell_price:[16585]
+[2017-08-14 14:54:45] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:45.384000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:54:45] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:45] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:54 KST)" executed successfully
+[2017-08-14 14:54:54] [DEBUG] Looking for jobs to run
+[2017-08-14 14:54:54] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:54:54 KST)" (scheduled at 2017-08-14 14:54:54.494937+09:00)
+[2017-08-14 14:54:54] [DEBUG] Next wakeup is due at 2017-08-14 14:55:04.494937+09:00 (in 9.997231 seconds)
+[2017-08-14 14:54:54] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:54:54.943000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:54:54] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:54:54.943000] buy_price:[362100] sell_price:[363500]
+[2017-08-14 14:54:54] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:54:54.943000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:54:54] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:54:54.943000] buy_price:[16560] sell_price:[16585]
+[2017-08-14 14:54:54] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:54:54.943000] buy_price:[4648000] sell_price:[4650000]
+[2017-08-14 14:54:54] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:54:54] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:04 KST)" executed successfully
+[2017-08-14 14:55:04] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:04] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:04 KST)" (scheduled at 2017-08-14 14:55:04.494937+09:00)
+[2017-08-14 14:55:04] [DEBUG] Next wakeup is due at 2017-08-14 14:55:14.494937+09:00 (in 9.997753 seconds)
+[2017-08-14 14:55:04] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:55:05.062000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:55:04] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:55:05.062000] buy_price:[362100] sell_price:[363500]
+[2017-08-14 14:55:04] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:55:05.062000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:55:04] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:55:05.062000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:55:04] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:55:05.062000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:55:04] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:55:04] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:14 KST)" executed successfully
+[2017-08-14 14:55:14] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:14] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:14 KST)" (scheduled at 2017-08-14 14:55:14.494937+09:00)
+[2017-08-14 14:55:14] [DEBUG] Next wakeup is due at 2017-08-14 14:55:24.494937+09:00 (in 9.997981 seconds)
+[2017-08-14 14:55:14] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:55:15.010000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:55:14] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:55:15.010000] buy_price:[362500] sell_price:[363500]
+[2017-08-14 14:55:14] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:55:15.010000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:55:14] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:55:15.010000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:55:14] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:55:15.010000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:55:14] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:55:14] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:24 KST)" executed successfully
+[2017-08-14 14:55:24] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:24] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:24 KST)" (scheduled at 2017-08-14 14:55:24.494937+09:00)
+[2017-08-14 14:55:24] [DEBUG] Next wakeup is due at 2017-08-14 14:55:34.494937+09:00 (in 9.997802 seconds)
+[2017-08-14 14:55:24] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:55:25.004000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:55:24] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:55:25.004000] buy_price:[362600] sell_price:[363500]
+[2017-08-14 14:55:24] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:55:25.004000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:55:24] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:55:25.004000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:55:24] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:55:25.004000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:55:24] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:55:24] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:34 KST)" executed successfully
+[2017-08-14 14:55:34] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:34] [DEBUG] Next wakeup is due at 2017-08-14 14:55:44.494937+09:00 (in 9.998556 seconds)
+[2017-08-14 14:55:34] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:44 KST)" (scheduled at 2017-08-14 14:55:34.494937+09:00)
+[2017-08-14 14:55:34] [INFO] [request.py(46)]:Response: coin:[LTC] date:[2017-08-14 14:55:34.992000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:55:34] [INFO] [request.py(46)]:Response: coin:[BCH] date:[2017-08-14 14:55:34.992000] buy_price:[362700] sell_price:[363400]
+[2017-08-14 14:55:34] [INFO] [request.py(46)]:Response: coin:[DASH] date:[2017-08-14 14:55:34.992000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:55:34] [INFO] [request.py(46)]:Response: coin:[ETC] date:[2017-08-14 14:55:34.992000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:55:34] [INFO] [request.py(46)]:Response: coin:[BTC] date:[2017-08-14 14:55:34.992000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:55:34] [ERROR] [request.py(51)]:Exception parsing
+[2017-08-14 14:55:34] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:55:44 KST)" executed successfully
+[2017-08-14 14:55:42] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:55:42] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:55:42] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:55:42] [INFO] Scheduler started
+[2017-08-14 14:55:42] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:42] [DEBUG] Next wakeup is due at 2017-08-14 14:55:52.361295+09:00 (in 9.998761 seconds)
+[2017-08-14 14:55:52] [DEBUG] Looking for jobs to run
+[2017-08-14 14:55:52] [DEBUG] Next wakeup is due at 2017-08-14 14:56:02.361295+09:00 (in 9.999698 seconds)
+[2017-08-14 14:55:52] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:02 KST)" (scheduled at 2017-08-14 14:55:52.361295+09:00)
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:55:52.804000] buy_price:[52850] sell_price:[52910]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:55:52.804000] buy_price:[362800] sell_price:[363400]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:55:52.804000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:55:52.804000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:55:52.804000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:55:52.804000] buy_price:[347150] sell_price:[347250]
+[2017-08-14 14:55:52] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:55:52.804000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:55:52] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:02 KST)" executed successfully
+[2017-08-14 14:56:02] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:02] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:02 KST)" (scheduled at 2017-08-14 14:56:02.361295+09:00)
+[2017-08-14 14:56:02] [DEBUG] Next wakeup is due at 2017-08-14 14:56:12.361295+09:00 (in 9.999416 seconds)
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:56:02.978000] buy_price:[52860] sell_price:[52910]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:56:02.978000] buy_price:[363400] sell_price:[363500]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:56:02.978000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:56:02.978000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:56:02.978000] buy_price:[4647000] sell_price:[4648000]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:56:02.978000] buy_price:[347150] sell_price:[347250]
+[2017-08-14 14:56:03] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:56:02.978000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:56:03] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:12 KST)" executed successfully
+[2017-08-14 14:56:10] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 14:56:10] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 14:56:10] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 14:56:10] [INFO] Scheduler started
+[2017-08-14 14:56:10] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:10] [DEBUG] Next wakeup is due at 2017-08-14 14:56:20.089726+09:00 (in 9.999129 seconds)
+[2017-08-14 14:56:20] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:20] [DEBUG] Next wakeup is due at 2017-08-14 14:56:30.089726+09:00 (in 9.999681 seconds)
+[2017-08-14 14:56:20] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:30 KST)" (scheduled at 2017-08-14 14:56:20.089726+09:00)
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:56:20.499000] buy_price:[52860] sell_price:[52910]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:56:20.499000] buy_price:[362800] sell_price:[363400]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:56:20.499000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:56:20.499000] buy_price:[16545] sell_price:[16560]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:56:20.499000] buy_price:[4646000] sell_price:[4647000]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:56:20.499000] buy_price:[347250] sell_price:[347300]
+[2017-08-14 14:56:20] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:56:20.499000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:56:20] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:30 KST)" executed successfully
+[2017-08-14 14:56:30] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:30] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:30 KST)" (scheduled at 2017-08-14 14:56:30.089726+09:00)
+[2017-08-14 14:56:30] [DEBUG] Next wakeup is due at 2017-08-14 14:56:40.089726+09:00 (in 9.999384 seconds)
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:56:30.529000] buy_price:[52860] sell_price:[52910]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:56:30.529000] buy_price:[362800] sell_price:[363400]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:56:30.529000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:56:30.529000] buy_price:[16550] sell_price:[16560]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:56:30.529000] buy_price:[4646000] sell_price:[4647000]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:56:30.529000] buy_price:[347250] sell_price:[347350]
+[2017-08-14 14:56:30] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:56:30.529000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:56:30] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:40 KST)" executed successfully
+[2017-08-14 14:56:40] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:40] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:40 KST)" (scheduled at 2017-08-14 14:56:40.089726+09:00)
+[2017-08-14 14:56:40] [DEBUG] Next wakeup is due at 2017-08-14 14:56:50.089726+09:00 (in 9.997501 seconds)
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:56:40.727000] buy_price:[52860] sell_price:[52910]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:56:40.727000] buy_price:[362800] sell_price:[363300]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:56:40.727000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:56:40.727000] buy_price:[16550] sell_price:[16560]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:56:40.727000] buy_price:[4645000] sell_price:[4646000]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:56:40.727000] buy_price:[347250] sell_price:[347300]
+[2017-08-14 14:56:40] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:56:40.727000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:56:40] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:50 KST)" executed successfully
+[2017-08-14 14:56:50] [DEBUG] Looking for jobs to run
+[2017-08-14 14:56:50] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:56:50 KST)" (scheduled at 2017-08-14 14:56:50.089726+09:00)
+[2017-08-14 14:56:50] [DEBUG] Next wakeup is due at 2017-08-14 14:57:00.089726+09:00 (in 9.997717 seconds)
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[LTC] date:[2017-08-14 14:56:50.528000] buy_price:[52860] sell_price:[52910]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[BCH] date:[2017-08-14 14:56:50.528000] buy_price:[363300] sell_price:[363400]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[DASH] date:[2017-08-14 14:56:50.528000] buy_price:[229500] sell_price:[229550]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[ETC] date:[2017-08-14 14:56:50.528000] buy_price:[16550] sell_price:[16560]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[BTC] date:[2017-08-14 14:56:50.528000] buy_price:[4644000] sell_price:[4645000]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[ETH] date:[2017-08-14 14:56:50.528000] buy_price:[347250] sell_price:[347350]
+[2017-08-14 14:56:50] [INFO] [request.py(47)]:Response: coin:[XRP] date:[2017-08-14 14:56:50.528000] buy_price:[199] sell_price:[200]
+[2017-08-14 14:56:50] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 14:57:00 KST)" executed successfully
+[2017-08-14 15:03:40] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:03:40] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:03:40] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:03:40] [INFO] Scheduler started
+[2017-08-14 15:03:40] [DEBUG] Looking for jobs to run
+[2017-08-14 15:03:40] [DEBUG] Next wakeup is due at 2017-08-14 15:03:50.383953+09:00 (in 9.998751 seconds)
+[2017-08-14 15:03:50] [DEBUG] Looking for jobs to run
+[2017-08-14 15:03:50] [DEBUG] Next wakeup is due at 2017-08-14 15:04:00.383953+09:00 (in 9.999568 seconds)
+[2017-08-14 15:03:50] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:00 KST)" (scheduled at 2017-08-14 15:03:50.383953+09:00)
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       LTC] date:[2017-08-14 15:03:50.825000] buy_price:[     52800] sell_price:[     52840]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       BCH] date:[2017-08-14 15:03:50.825000] buy_price:[    363400] sell_price:[    364200]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[      DASH] date:[2017-08-14 15:03:50.825000] buy_price:[    229500] sell_price:[    229750]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       ETC] date:[2017-08-14 15:03:50.825000] buy_price:[     16565] sell_price:[     16570]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       BTC] date:[2017-08-14 15:03:50.825000] buy_price:[   4629000] sell_price:[   4630000]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       ETH] date:[2017-08-14 15:03:50.825000] buy_price:[    348650] sell_price:[    348850]
+[2017-08-14 15:03:50] [INFO] [request.py(47)]:Response: coin:[       XRP] date:[2017-08-14 15:03:50.825000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:03:50] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:00 KST)" executed successfully
+[2017-08-14 15:04:00] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:00] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:00 KST)" (scheduled at 2017-08-14 15:04:00.383953+09:00)
+[2017-08-14 15:04:00] [DEBUG] Next wakeup is due at 2017-08-14 15:04:10.383953+09:00 (in 9.999307 seconds)
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       LTC] date:[2017-08-14 15:04:00.782000] buy_price:[     52800] sell_price:[     52840]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       BCH] date:[2017-08-14 15:04:00.782000] buy_price:[    363300] sell_price:[    363400]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[      DASH] date:[2017-08-14 15:04:00.782000] buy_price:[    229500] sell_price:[    229750]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       ETC] date:[2017-08-14 15:04:00.782000] buy_price:[     16565] sell_price:[     16570]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       BTC] date:[2017-08-14 15:04:00.782000] buy_price:[   4628000] sell_price:[   4629000]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       ETH] date:[2017-08-14 15:04:00.782000] buy_price:[    348550] sell_price:[    348850]
+[2017-08-14 15:04:00] [INFO] [request.py(47)]:Response: coin:[       XRP] date:[2017-08-14 15:04:00.782000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:04:00] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:10 KST)" executed successfully
+[2017-08-14 15:04:10] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:04:10] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:04:10] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:04:10] [INFO] Scheduler started
+[2017-08-14 15:04:10] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:10] [DEBUG] Next wakeup is due at 2017-08-14 15:04:20.238884+09:00 (in 9.998983 seconds)
+[2017-08-14 15:04:20] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:20] [DEBUG] Next wakeup is due at 2017-08-14 15:04:30.238884+09:00 (in 9.999647 seconds)
+[2017-08-14 15:04:20] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:30 KST)" (scheduled at 2017-08-14 15:04:20.238884+09:00)
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[LTC7] date:[2017-08-14 15:04:20.682000] buy_price:[     52800] sell_price:[     52810]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[BCH7] date:[2017-08-14 15:04:20.682000] buy_price:[    363400] sell_price:[    363600]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[DASH7] date:[2017-08-14 15:04:20.682000] buy_price:[    229300] sell_price:[    229750]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[ETC7] date:[2017-08-14 15:04:20.682000] buy_price:[     16550] sell_price:[     16570]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[BTC7] date:[2017-08-14 15:04:20.682000] buy_price:[   4631000] sell_price:[   4635000]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[ETH7] date:[2017-08-14 15:04:20.682000] buy_price:[    348700] sell_price:[    349000]
+[2017-08-14 15:04:20] [INFO] [request.py(47)]:Response: coin:[XRP7] date:[2017-08-14 15:04:20.682000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:04:20] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:30 KST)" executed successfully
+[2017-08-14 15:04:30] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:30] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:30 KST)" (scheduled at 2017-08-14 15:04:30.238884+09:00)
+[2017-08-14 15:04:30] [DEBUG] Next wakeup is due at 2017-08-14 15:04:40.238884+09:00 (in 9.999218 seconds)
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[LTC7] date:[2017-08-14 15:04:30.725000] buy_price:[     52800] sell_price:[     52810]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[BCH7] date:[2017-08-14 15:04:30.725000] buy_price:[    363300] sell_price:[    363400]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[DASH7] date:[2017-08-14 15:04:30.725000] buy_price:[    229200] sell_price:[    229750]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[ETC7] date:[2017-08-14 15:04:30.725000] buy_price:[     16550] sell_price:[     16570]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[BTC7] date:[2017-08-14 15:04:30.725000] buy_price:[   4629000] sell_price:[   4630000]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[ETH7] date:[2017-08-14 15:04:30.725000] buy_price:[    348700] sell_price:[    348850]
+[2017-08-14 15:04:30] [INFO] [request.py(47)]:Response: coin:[XRP7] date:[2017-08-14 15:04:30.725000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:04:30] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:04:40 KST)" executed successfully
+[2017-08-14 15:04:41] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:04:41] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:04:41] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:04:41] [INFO] Scheduler started
+[2017-08-14 15:04:41] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:41] [DEBUG] Next wakeup is due at 2017-08-14 15:04:51.377732+09:00 (in 9.999024 seconds)
+[2017-08-14 15:04:51] [DEBUG] Looking for jobs to run
+[2017-08-14 15:04:51] [DEBUG] Next wakeup is due at 2017-08-14 15:05:01.377732+09:00 (in 9.999664 seconds)
+[2017-08-14 15:04:51] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:01 KST)" (scheduled at 2017-08-14 15:04:51.377732+09:00)
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:04:51.771000] buy_price:[     52790] sell_price:[     52800]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:04:51.771000] buy_price:[    362900] sell_price:[    363300]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:04:51.771000] buy_price:[    229250] sell_price:[    229750]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:04:51.771000] buy_price:[     16545] sell_price:[     16550]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:04:51.771000] buy_price:[   4635000] sell_price:[   4639000]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:04:51.771000] buy_price:[    348850] sell_price:[    348950]
+[2017-08-14 15:04:51] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:04:51.771000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:04:51] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:01 KST)" executed successfully
+[2017-08-14 15:05:01] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:01] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:01 KST)" (scheduled at 2017-08-14 15:05:01.377732+09:00)
+[2017-08-14 15:05:01] [DEBUG] Next wakeup is due at 2017-08-14 15:05:11.377732+09:00 (in 9.999355 seconds)
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:01.887000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:01.887000] buy_price:[    362900] sell_price:[    363300]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:01.887000] buy_price:[    229250] sell_price:[    229750]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:01.887000] buy_price:[     16535] sell_price:[     16545]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:01.887000] buy_price:[   4631000] sell_price:[   4639000]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:01.887000] buy_price:[    348850] sell_price:[    348900]
+[2017-08-14 15:05:01] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:01.887000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:01] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:11 KST)" executed successfully
+[2017-08-14 15:05:11] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:11] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:11 KST)" (scheduled at 2017-08-14 15:05:11.377732+09:00)
+[2017-08-14 15:05:11] [DEBUG] Next wakeup is due at 2017-08-14 15:05:21.377732+09:00 (in 9.997548 seconds)
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:11.764000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:11.764000] buy_price:[    361300] sell_price:[    362900]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:11.764000] buy_price:[    229300] sell_price:[    229750]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:11.764000] buy_price:[     16535] sell_price:[     16545]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:11.764000] buy_price:[   4632000] sell_price:[   4639000]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:11.764000] buy_price:[    348850] sell_price:[    348950]
+[2017-08-14 15:05:11] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:11.764000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:11] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:21 KST)" executed successfully
+[2017-08-14 15:05:21] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:21] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:21 KST)" (scheduled at 2017-08-14 15:05:21.377732+09:00)
+[2017-08-14 15:05:21] [DEBUG] Next wakeup is due at 2017-08-14 15:05:31.377732+09:00 (in 9.997856 seconds)
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:21.878000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:21.878000] buy_price:[    361300] sell_price:[    362800]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:21.878000] buy_price:[    229300] sell_price:[    229700]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:21.878000] buy_price:[     16535] sell_price:[     16550]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:21.878000] buy_price:[   4632000] sell_price:[   4638000]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:21.878000] buy_price:[    349000] sell_price:[    349050]
+[2017-08-14 15:05:21] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:21.878000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:21] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:31 KST)" executed successfully
+[2017-08-14 15:05:31] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:31] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:31 KST)" (scheduled at 2017-08-14 15:05:31.377732+09:00)
+[2017-08-14 15:05:31] [DEBUG] Next wakeup is due at 2017-08-14 15:05:41.377732+09:00 (in 9.996943 seconds)
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:31.924000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:31.924000] buy_price:[    361400] sell_price:[    362800]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:31.924000] buy_price:[    229250] sell_price:[    229700]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:31.924000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:31.924000] buy_price:[   4635000] sell_price:[   4638000]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:31.924000] buy_price:[    349050] sell_price:[    349100]
+[2017-08-14 15:05:31] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:31.924000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:31] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:41 KST)" executed successfully
+[2017-08-14 15:05:41] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:41] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:41 KST)" (scheduled at 2017-08-14 15:05:41.377732+09:00)
+[2017-08-14 15:05:41] [DEBUG] Next wakeup is due at 2017-08-14 15:05:51.377732+09:00 (in 9.997471 seconds)
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:41.722000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:41.722000] buy_price:[    361500] sell_price:[    362800]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:41.722000] buy_price:[    229400] sell_price:[    229700]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:41.722000] buy_price:[     16540] sell_price:[     16570]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:41.722000] buy_price:[   4635000] sell_price:[   4637000]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:41.722000] buy_price:[    349050] sell_price:[    349300]
+[2017-08-14 15:05:41] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:41.722000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:41] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:51 KST)" executed successfully
+[2017-08-14 15:05:51] [DEBUG] Looking for jobs to run
+[2017-08-14 15:05:51] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:05:51 KST)" (scheduled at 2017-08-14 15:05:51.377732+09:00)
+[2017-08-14 15:05:51] [DEBUG] Next wakeup is due at 2017-08-14 15:06:01.377732+09:00 (in 9.998129 seconds)
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:05:51.839000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:05:51.839000] buy_price:[    361500] sell_price:[    362800]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:05:51.839000] buy_price:[    229250] sell_price:[    229700]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:05:51.839000] buy_price:[     16540] sell_price:[     16570]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:05:51.839000] buy_price:[   4636000] sell_price:[   4637000]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:05:51.839000] buy_price:[    349350] sell_price:[    349400]
+[2017-08-14 15:05:51] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:05:51.839000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:05:51] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:01 KST)" executed successfully
+[2017-08-14 15:06:01] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:01] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:01 KST)" (scheduled at 2017-08-14 15:06:01.377732+09:00)
+[2017-08-14 15:06:01] [DEBUG] Next wakeup is due at 2017-08-14 15:06:11.377732+09:00 (in 9.997772 seconds)
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:06:01.811000] buy_price:[     52780] sell_price:[     52790]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:06:01.811000] buy_price:[    362000] sell_price:[    362700]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:06:01.811000] buy_price:[    229250] sell_price:[    229700]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:06:01.811000] buy_price:[     16540] sell_price:[     16570]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:06:01.811000] buy_price:[   4631000] sell_price:[   4637000]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:06:01.811000] buy_price:[    349300] sell_price:[    349400]
+[2017-08-14 15:06:01] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:06:01.811000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:06:01] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:11 KST)" executed successfully
+[2017-08-14 15:06:05] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:06:05] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:06:05] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:06:05] [INFO] Scheduler started
+[2017-08-14 15:06:05] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:05] [DEBUG] Next wakeup is due at 2017-08-14 15:06:15.901286+09:00 (in 9.999091 seconds)
+[2017-08-14 15:06:15] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:15] [DEBUG] Next wakeup is due at 2017-08-14 15:06:25.901286+09:00 (in 9.999775 seconds)
+[2017-08-14 15:06:15] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:25 KST)" (scheduled at 2017-08-14 15:06:15.901286+09:00)
+[2017-08-14 15:06:16] [ERROR] [request.py(52)]:Exception parsing --> not all arguments converted during string formatting
+[2017-08-14 15:06:16] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:25 KST)" executed successfully
+[2017-08-14 15:06:25] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:25] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:25 KST)" (scheduled at 2017-08-14 15:06:25.901286+09:00)
+[2017-08-14 15:06:25] [DEBUG] Next wakeup is due at 2017-08-14 15:06:35.901286+09:00 (in 9.999365 seconds)
+[2017-08-14 15:06:26] [ERROR] [request.py(52)]:Exception parsing --> not all arguments converted during string formatting
+[2017-08-14 15:06:26] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:35 KST)" executed successfully
+[2017-08-14 15:06:33] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:06:33] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:06:33] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:06:33] [INFO] Scheduler started
+[2017-08-14 15:06:33] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:33] [DEBUG] Next wakeup is due at 2017-08-14 15:06:43.967575+09:00 (in 9.999051 seconds)
+[2017-08-14 15:06:43] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:43] [DEBUG] Next wakeup is due at 2017-08-14 15:06:53.967575+09:00 (in 9.999671 seconds)
+[2017-08-14 15:06:43] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:53 KST)" (scheduled at 2017-08-14 15:06:43.967575+09:00)
+[2017-08-14 15:06:44] [ERROR] [request.py(52)]:Exception parsing --> not all arguments converted during string formatting
+[2017-08-14 15:06:44] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:53 KST)" executed successfully
+[2017-08-14 15:06:53] [DEBUG] Looking for jobs to run
+[2017-08-14 15:06:53] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:06:53 KST)" (scheduled at 2017-08-14 15:06:53.967575+09:00)
+[2017-08-14 15:06:53] [DEBUG] Next wakeup is due at 2017-08-14 15:07:03.967575+09:00 (in 9.998652 seconds)
+[2017-08-14 15:06:54] [ERROR] [request.py(52)]:Exception parsing --> not all arguments converted during string formatting
+[2017-08-14 15:06:54] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:03 KST)" executed successfully
+[2017-08-14 15:07:03] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 15:07:03] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 15:07:03] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 15:07:03] [INFO] Scheduler started
+[2017-08-14 15:07:03] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:03] [DEBUG] Next wakeup is due at 2017-08-14 15:07:13.140811+09:00 (in 9.998711 seconds)
+[2017-08-14 15:07:13] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:13] [DEBUG] Next wakeup is due at 2017-08-14 15:07:23.140811+09:00 (in 9.999644 seconds)
+[2017-08-14 15:07:13] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:23 KST)" (scheduled at 2017-08-14 15:07:13.140811+09:00)
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:07:13.752000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:07:13.752000] buy_price:[    362800] sell_price:[    363800]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:07:13.752000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:07:13.752000] buy_price:[     16535] sell_price:[     16565]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:07:13.752000] buy_price:[   4639000] sell_price:[   4640000]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:07:13.752000] buy_price:[    349000] sell_price:[    349250]
+[2017-08-14 15:07:13] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:07:13.752000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:07:13] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:23 KST)" executed successfully
+[2017-08-14 15:07:23] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:23] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:23 KST)" (scheduled at 2017-08-14 15:07:23.140811+09:00)
+[2017-08-14 15:07:23] [DEBUG] Next wakeup is due at 2017-08-14 15:07:33.140811+09:00 (in 9.999309 seconds)
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:07:23.562000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:07:23.562000] buy_price:[    362900] sell_price:[    363800]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:07:23.562000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:07:23.562000] buy_price:[     16535] sell_price:[     16565]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:07:23.562000] buy_price:[   4635000] sell_price:[   4640000]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:07:23.562000] buy_price:[    348700] sell_price:[    349000]
+[2017-08-14 15:07:23] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:07:23.562000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:07:23] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:33 KST)" executed successfully
+[2017-08-14 15:07:33] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:33] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:33 KST)" (scheduled at 2017-08-14 15:07:33.140811+09:00)
+[2017-08-14 15:07:33] [DEBUG] Next wakeup is due at 2017-08-14 15:07:43.140811+09:00 (in 9.997194 seconds)
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:07:33.513000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:07:33.513000] buy_price:[    363000] sell_price:[    363800]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:07:33.513000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:07:33.513000] buy_price:[     16535] sell_price:[     16565]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:07:33.513000] buy_price:[   4635000] sell_price:[   4640000]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:07:33.513000] buy_price:[    348600] sell_price:[    349000]
+[2017-08-14 15:07:33] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:07:33.513000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:07:33] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:43 KST)" executed successfully
+[2017-08-14 15:07:43] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:43] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:43 KST)" (scheduled at 2017-08-14 15:07:43.140811+09:00)
+[2017-08-14 15:07:43] [DEBUG] Next wakeup is due at 2017-08-14 15:07:53.140811+09:00 (in 9.997242 seconds)
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:07:43.496000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:07:43.496000] buy_price:[    363100] sell_price:[    363800]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:07:43.496000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:07:43.496000] buy_price:[     16540] sell_price:[     16565]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:07:43.496000] buy_price:[   4635000] sell_price:[   4640000]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:07:43.496000] buy_price:[    348750] sell_price:[    348900]
+[2017-08-14 15:07:43] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:07:43.496000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:07:43] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:53 KST)" executed successfully
+[2017-08-14 15:07:53] [DEBUG] Looking for jobs to run
+[2017-08-14 15:07:53] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:07:53 KST)" (scheduled at 2017-08-14 15:07:53.140811+09:00)
+[2017-08-14 15:07:53] [DEBUG] Next wakeup is due at 2017-08-14 15:08:03.140811+09:00 (in 9.997440 seconds)
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:07:53.570000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:07:53.570000] buy_price:[    363200] sell_price:[    363800]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:07:53.570000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:07:53.570000] buy_price:[     16535] sell_price:[     16565]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:07:53.570000] buy_price:[   4635000] sell_price:[   4640000]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:07:53.570000] buy_price:[    348450] sell_price:[    348600]
+[2017-08-14 15:07:53] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:07:53.570000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:07:53] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:08:03 KST)" executed successfully
+[2017-08-14 15:08:03] [DEBUG] Looking for jobs to run
+[2017-08-14 15:08:03] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:08:03 KST)" (scheduled at 2017-08-14 15:08:03.140811+09:00)
+[2017-08-14 15:08:03] [DEBUG] Next wakeup is due at 2017-08-14 15:08:13.140811+09:00 (in 9.997794 seconds)
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:08:03.528000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:08:03.528000] buy_price:[    363100] sell_price:[    363800]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:08:03.528000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:08:03.528000] buy_price:[     16540] sell_price:[     16565]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:08:03.528000] buy_price:[   4635000] sell_price:[   4640000]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:08:03.528000] buy_price:[    348450] sell_price:[    348600]
+[2017-08-14 15:08:03] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:08:03.528000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:08:03] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:08:13 KST)" executed successfully
+[2017-08-14 15:08:13] [DEBUG] Looking for jobs to run
+[2017-08-14 15:08:13] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:08:13 KST)" (scheduled at 2017-08-14 15:08:13.140811+09:00)
+[2017-08-14 15:08:13] [DEBUG] Next wakeup is due at 2017-08-14 15:08:23.140811+09:00 (in 9.997018 seconds)
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 15:08:13.647000] buy_price:[     52770] sell_price:[     52780]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 15:08:13.647000] buy_price:[    363000] sell_price:[    363700]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 15:08:13.647000] buy_price:[    229700] sell_price:[    229750]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 15:08:13.647000] buy_price:[     16545] sell_price:[     16565]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 15:08:13.647000] buy_price:[   4635000] sell_price:[   4639000]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 15:08:13.647000] buy_price:[    348600] sell_price:[    348800]
+[2017-08-14 15:08:13] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 15:08:13.647000] buy_price:[       199] sell_price:[       200]
+[2017-08-14 15:08:13] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 15:08:23 KST)" executed successfully
+[2017-08-14 16:27:16] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:27:17] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:27:17] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:27:17] [INFO] Scheduler started
+[2017-08-14 16:27:17] [DEBUG] Looking for jobs to run
+[2017-08-14 16:27:17] [DEBUG] Next wakeup is due at 2017-08-14 16:27:27.042587+09:00 (in 9.998865 seconds)
+[2017-08-14 16:27:27] [DEBUG] Looking for jobs to run
+[2017-08-14 16:27:27] [DEBUG] Next wakeup is due at 2017-08-14 16:27:37.042587+09:00 (in 9.999663 seconds)
+[2017-08-14 16:27:27] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:37 KST)" (scheduled at 2017-08-14 16:27:27.042587+09:00)
+[2017-08-14 16:27:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:27:28.542000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:27:28] [ERROR] [request.py(56)]:Exception parsing --> global name 'day' is not defined
+[2017-08-14 16:27:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:37 KST)" executed successfully
+[2017-08-14 16:27:37] [DEBUG] Looking for jobs to run
+[2017-08-14 16:27:37] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:37 KST)" (scheduled at 2017-08-14 16:27:37.042587+09:00)
+[2017-08-14 16:27:37] [DEBUG] Next wakeup is due at 2017-08-14 16:27:47.042587+09:00 (in 9.999203 seconds)
+[2017-08-14 16:27:37] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:27:37.391000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:27:37] [ERROR] [request.py(56)]:Exception parsing --> global name 'day' is not defined
+[2017-08-14 16:27:37] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:47 KST)" executed successfully
+[2017-08-14 16:27:47] [DEBUG] Looking for jobs to run
+[2017-08-14 16:27:47] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:47 KST)" (scheduled at 2017-08-14 16:27:47.042587+09:00)
+[2017-08-14 16:27:47] [DEBUG] Next wakeup is due at 2017-08-14 16:27:57.042587+09:00 (in 9.997968 seconds)
+[2017-08-14 16:27:49] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:27:49.850000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:27:49] [ERROR] [request.py(56)]:Exception parsing --> global name 'day' is not defined
+[2017-08-14 16:27:49] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:27:57 KST)" executed successfully
+[2017-08-14 16:27:53] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:27:53] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:27:53] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:27:53] [INFO] Scheduler started
+[2017-08-14 16:27:53] [DEBUG] Looking for jobs to run
+[2017-08-14 16:27:53] [DEBUG] Next wakeup is due at 2017-08-14 16:28:03.784451+09:00 (in 9.997317 seconds)
+[2017-08-14 16:28:03] [DEBUG] Looking for jobs to run
+[2017-08-14 16:28:03] [DEBUG] Next wakeup is due at 2017-08-14 16:28:13.784451+09:00 (in 9.999666 seconds)
+[2017-08-14 16:28:03] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:13 KST)" (scheduled at 2017-08-14 16:28:03.784451+09:00)
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:28:04.277000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:28:04.277000] buy_price:[    358500] sell_price:[    358900]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:28:04.277000] buy_price:[    230000] sell_price:[    230950]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:28:04.277000] buy_price:[     16530] sell_price:[     16550]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:28:04.277000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:28:04.277000] buy_price:[    348000] sell_price:[    348100]
+[2017-08-14 16:28:04] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:28:04.277000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:28:04] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:13 KST)" executed successfully
+[2017-08-14 16:28:13] [DEBUG] Looking for jobs to run
+[2017-08-14 16:28:13] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:13 KST)" (scheduled at 2017-08-14 16:28:13.784451+09:00)
+[2017-08-14 16:28:13] [DEBUG] Next wakeup is due at 2017-08-14 16:28:23.784451+09:00 (in 9.999304 seconds)
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:28:14.873000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:28:14.873000] buy_price:[    358600] sell_price:[    358900]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:28:14.873000] buy_price:[    229700] sell_price:[    230950]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:28:14.873000] buy_price:[     16530] sell_price:[     16550]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:28:14.873000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:28:14.873000] buy_price:[    348000] sell_price:[    348050]
+[2017-08-14 16:28:14] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:28:14.873000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:28:14] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:23 KST)" executed successfully
+[2017-08-14 16:28:23] [DEBUG] Looking for jobs to run
+[2017-08-14 16:28:23] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:23 KST)" (scheduled at 2017-08-14 16:28:23.784451+09:00)
+[2017-08-14 16:28:23] [DEBUG] Next wakeup is due at 2017-08-14 16:28:33.784451+09:00 (in 9.997667 seconds)
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:28:24.234000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:28:24.234000] buy_price:[    358600] sell_price:[    358900]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:28:24.234000] buy_price:[    229700] sell_price:[    230850]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:28:24.234000] buy_price:[     16530] sell_price:[     16550]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:28:24.234000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:28:24.234000] buy_price:[    348000] sell_price:[    348100]
+[2017-08-14 16:28:24] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:28:24.234000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:28:24] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:33 KST)" executed successfully
+[2017-08-14 16:28:32] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:28:32] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:28:32] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:28:32] [INFO] Scheduler started
+[2017-08-14 16:28:32] [DEBUG] Looking for jobs to run
+[2017-08-14 16:28:32] [DEBUG] Next wakeup is due at 2017-08-14 16:28:42.601263+09:00 (in 9.998792 seconds)
+[2017-08-14 16:28:42] [DEBUG] Looking for jobs to run
+[2017-08-14 16:28:42] [DEBUG] Next wakeup is due at 2017-08-14 16:28:52.601263+09:00 (in 9.999635 seconds)
+[2017-08-14 16:28:42] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:52 KST)" (scheduled at 2017-08-14 16:28:42.601263+09:00)
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:28:42.862000] buy_price:[     52760] sell_price:[     52780]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:28:42.862000] buy_price:[    358200] sell_price:[    358500]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:28:42.862000] buy_price:[    229700] sell_price:[    230850]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:28:42.862000] buy_price:[     16530] sell_price:[     16550]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:28:42.862000] buy_price:[   4664000] sell_price:[   4668000]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:28:42.862000] buy_price:[    347750] sell_price:[    348000]
+[2017-08-14 16:28:42] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:28:42.862000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:28:42] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:28:52 KST)" executed successfully
+[2017-08-14 16:32:26] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:32:26] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:32:26] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:32:26] [INFO] Scheduler started
+[2017-08-14 16:32:26] [DEBUG] Looking for jobs to run
+[2017-08-14 16:32:26] [DEBUG] Next wakeup is due at 2017-08-14 16:32:36.761309+09:00 (in 9.999057 seconds)
+[2017-08-14 16:32:36] [DEBUG] Looking for jobs to run
+[2017-08-14 16:32:36] [DEBUG] Next wakeup is due at 2017-08-14 16:32:46.761309+09:00 (in 9.999713 seconds)
+[2017-08-14 16:32:36] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:32:46 KST)" (scheduled at 2017-08-14 16:32:36.761309+09:00)
+[2017-08-14 16:32:37] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:32:37.219000] buy_price:[     52840] sell_price:[     52900]
+[2017-08-14 16:32:37] [ERROR] [request.py(56)]:Exception parsing --> must be string, not datetime.datetime
+[2017-08-14 16:32:37] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:32:46 KST)" executed successfully
+[2017-08-14 16:33:02] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:33:02] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:33:02] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:33:02] [INFO] Scheduler started
+[2017-08-14 16:33:02] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:02] [DEBUG] Next wakeup is due at 2017-08-14 16:33:12.676226+09:00 (in 9.998791 seconds)
+[2017-08-14 16:33:10] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:33:10] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:33:10] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:33:10] [INFO] Scheduler started
+[2017-08-14 16:33:10] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:10] [DEBUG] Next wakeup is due at 2017-08-14 16:33:20.799911+09:00 (in 9.998986 seconds)
+[2017-08-14 16:33:20] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:20] [DEBUG] Next wakeup is due at 2017-08-14 16:33:30.799911+09:00 (in 9.999648 seconds)
+[2017-08-14 16:33:20] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:30 KST)" (scheduled at 2017-08-14 16:33:20.799911+09:00)
+[2017-08-14 16:33:22] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:33:22.559000] buy_price:[     52720] sell_price:[     52900]
+[2017-08-14 16:33:22] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:33:22.559000' does not match format '%Y%m%d'
+[2017-08-14 16:33:22] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:30 KST)" executed successfully
+[2017-08-14 16:33:30] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:30] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:30 KST)" (scheduled at 2017-08-14 16:33:30.799911+09:00)
+[2017-08-14 16:33:30] [DEBUG] Next wakeup is due at 2017-08-14 16:33:40.799911+09:00 (in 9.999327 seconds)
+[2017-08-14 16:33:30] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:33:31.035000] buy_price:[     52720] sell_price:[     52900]
+[2017-08-14 16:33:30] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:33:31.035000' does not match format '%Y%m%d'
+[2017-08-14 16:33:30] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:40 KST)" executed successfully
+[2017-08-14 16:33:40] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:40] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:40 KST)" (scheduled at 2017-08-14 16:33:40.799911+09:00)
+[2017-08-14 16:33:40] [DEBUG] Next wakeup is due at 2017-08-14 16:33:50.799911+09:00 (in 9.997969 seconds)
+[2017-08-14 16:33:41] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:33:41.105000] buy_price:[     52710] sell_price:[     52900]
+[2017-08-14 16:33:41] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:33:41.105000' does not match format '%Y%m%d'
+[2017-08-14 16:33:41] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:50 KST)" executed successfully
+[2017-08-14 16:33:50] [DEBUG] Looking for jobs to run
+[2017-08-14 16:33:50] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:33:50 KST)" (scheduled at 2017-08-14 16:33:50.799911+09:00)
+[2017-08-14 16:33:50] [DEBUG] Next wakeup is due at 2017-08-14 16:34:00.799911+09:00 (in 9.997223 seconds)
+[2017-08-14 16:33:50] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:33:51.045000] buy_price:[     52890] sell_price:[     52900]
+[2017-08-14 16:33:50] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:33:51.045000' does not match format '%Y%m%d'
+[2017-08-14 16:33:50] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:00 KST)" executed successfully
+[2017-08-14 16:34:00] [DEBUG] Looking for jobs to run
+[2017-08-14 16:34:00] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:00 KST)" (scheduled at 2017-08-14 16:34:00.799911+09:00)
+[2017-08-14 16:34:00] [DEBUG] Next wakeup is due at 2017-08-14 16:34:10.799911+09:00 (in 9.997707 seconds)
+[2017-08-14 16:34:01] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:34:01.276000] buy_price:[     52720] sell_price:[     52890]
+[2017-08-14 16:34:01] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:34:01.276000' does not match format '%Y%m%d'
+[2017-08-14 16:34:01] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:10 KST)" executed successfully
+[2017-08-14 16:34:10] [DEBUG] Looking for jobs to run
+[2017-08-14 16:34:10] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:10 KST)" (scheduled at 2017-08-14 16:34:10.799911+09:00)
+[2017-08-14 16:34:10] [DEBUG] Next wakeup is due at 2017-08-14 16:34:20.799911+09:00 (in 9.997462 seconds)
+[2017-08-14 16:34:11] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:34:11.088000] buy_price:[     52700] sell_price:[     52890]
+[2017-08-14 16:34:11] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:34:11.088000' does not match format '%Y%m%d'
+[2017-08-14 16:34:11] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:20 KST)" executed successfully
+[2017-08-14 16:34:20] [DEBUG] Looking for jobs to run
+[2017-08-14 16:34:20] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:20 KST)" (scheduled at 2017-08-14 16:34:20.799911+09:00)
+[2017-08-14 16:34:20] [DEBUG] Next wakeup is due at 2017-08-14 16:34:30.799911+09:00 (in 9.996812 seconds)
+[2017-08-14 16:34:21] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:34:21.011000] buy_price:[     52700] sell_price:[     52890]
+[2017-08-14 16:34:21] [ERROR] [request.py(56)]:Exception parsing --> time data '2017-08-14 16:34:21.011000' does not match format '%Y%m%d'
+[2017-08-14 16:34:21] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:34:30 KST)" executed successfully
+[2017-08-14 16:39:48] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:39:48] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:39:48] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:39:48] [INFO] Scheduler started
+[2017-08-14 16:39:48] [DEBUG] Looking for jobs to run
+[2017-08-14 16:39:48] [DEBUG] Next wakeup is due at 2017-08-14 16:39:58.134346+09:00 (in 9.999049 seconds)
+[2017-08-14 16:39:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:39:58] [DEBUG] Next wakeup is due at 2017-08-14 16:40:08.134346+09:00 (in 9.999675 seconds)
+[2017-08-14 16:39:58] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:08 KST)" (scheduled at 2017-08-14 16:39:58.134346+09:00)
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:39:58.437000] buy_price:[     52740] sell_price:[     52860]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:39:58.437000] buy_price:[    357500] sell_price:[    359900]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:39:58.437000] buy_price:[    229600] sell_price:[    230150]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:39:58.437000] buy_price:[     16550] sell_price:[     16555]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:39:58.437000] buy_price:[   4666000] sell_price:[   4667000]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:39:58.437000] buy_price:[    348000] sell_price:[    348050]
+[2017-08-14 16:39:58] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:39:58.437000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:39:58] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:08 KST)" executed successfully
+[2017-08-14 16:40:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:40:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:08 KST)" (scheduled at 2017-08-14 16:40:08.134346+09:00)
+[2017-08-14 16:40:08] [DEBUG] Next wakeup is due at 2017-08-14 16:40:18.134346+09:00 (in 9.999345 seconds)
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:40:08.352000] buy_price:[     52730] sell_price:[     52860]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:40:08.352000] buy_price:[    357600] sell_price:[    359800]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:40:08.352000] buy_price:[    229600] sell_price:[    230150]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:40:08.352000] buy_price:[     16550] sell_price:[     16555]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:40:08.352000] buy_price:[   4664000] sell_price:[   4667000]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:40:08.352000] buy_price:[    348000] sell_price:[    348050]
+[2017-08-14 16:40:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:40:08.352000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:40:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:18 KST)" executed successfully
+[2017-08-14 16:40:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:40:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:18 KST)" (scheduled at 2017-08-14 16:40:18.134346+09:00)
+[2017-08-14 16:40:18] [DEBUG] Next wakeup is due at 2017-08-14 16:40:28.134346+09:00 (in 9.998152 seconds)
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:40:18.358000] buy_price:[     52730] sell_price:[     52860]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:40:18.358000] buy_price:[    357700] sell_price:[    359800]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:40:18.358000] buy_price:[    229600] sell_price:[    230150]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:40:18.358000] buy_price:[     16550] sell_price:[     16555]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:40:18.358000] buy_price:[   4662000] sell_price:[   4664000]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:40:18.358000] buy_price:[    348000] sell_price:[    348050]
+[2017-08-14 16:40:18] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:40:18.358000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:40:18] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:28 KST)" executed successfully
+[2017-08-14 16:40:28] [DEBUG] Looking for jobs to run
+[2017-08-14 16:40:28] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:28 KST)" (scheduled at 2017-08-14 16:40:28.134346+09:00)
+[2017-08-14 16:40:28] [DEBUG] Next wakeup is due at 2017-08-14 16:40:38.134346+09:00 (in 9.997930 seconds)
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:40:28.420000] buy_price:[     52730] sell_price:[     52860]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:40:28.420000] buy_price:[    359600] sell_price:[    359900]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:40:28.420000] buy_price:[    229600] sell_price:[    230150]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:40:28.420000] buy_price:[     16550] sell_price:[     16555]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:40:28.420000] buy_price:[   4662000] sell_price:[   4664000]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:40:28.420000] buy_price:[    348000] sell_price:[    348050]
+[2017-08-14 16:40:28] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:40:28.420000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:40:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:38 KST)" executed successfully
+[2017-08-14 16:40:38] [DEBUG] Looking for jobs to run
+[2017-08-14 16:40:38] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:38 KST)" (scheduled at 2017-08-14 16:40:38.134346+09:00)
+[2017-08-14 16:40:38] [DEBUG] Next wakeup is due at 2017-08-14 16:40:48.134346+09:00 (in 9.998074 seconds)
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:40:38.452000] buy_price:[     52740] sell_price:[     52860]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:40:38.452000] buy_price:[    357700] sell_price:[    359500]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:40:38.452000] buy_price:[    229600] sell_price:[    230150]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:40:38.452000] buy_price:[     16550] sell_price:[     16555]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:40:38.452000] buy_price:[   4664000] sell_price:[   4671000]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:40:38.452000] buy_price:[    348000] sell_price:[    348200]
+[2017-08-14 16:40:38] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:40:38.452000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:40:38] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:40:48 KST)" executed successfully
+[2017-08-14 16:40:58] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:40:58] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:40:58] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:40:58] [INFO] Scheduler started
+[2017-08-14 16:40:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:40:58] [DEBUG] Next wakeup is due at 2017-08-14 16:41:08.556238+09:00 (in 9.998785 seconds)
+[2017-08-14 16:41:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:41:08] [DEBUG] Next wakeup is due at 2017-08-14 16:41:18.556238+09:00 (in 9.999717 seconds)
+[2017-08-14 16:41:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:41:18 KST)" (scheduled at 2017-08-14 16:41:08.556238+09:00)
+[2017-08-14 16:41:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:41:08.791000] buy_price:[     52740] sell_price:[     52850]
+[2017-08-14 16:41:08] [ERROR] [request.py(56)]:Exception parsing --> 'str' object does not support item assignment
+[2017-08-14 16:41:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:41:18 KST)" executed successfully
+[2017-08-14 16:41:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:41:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:41:18 KST)" (scheduled at 2017-08-14 16:41:18.556238+09:00)
+[2017-08-14 16:41:18] [DEBUG] Next wakeup is due at 2017-08-14 16:41:28.556238+09:00 (in 9.999375 seconds)
+[2017-08-14 16:41:19] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:41:18.944000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:41:19] [ERROR] [request.py(56)]:Exception parsing --> 'str' object does not support item assignment
+[2017-08-14 16:41:19] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:41:28 KST)" executed successfully
+[2017-08-14 16:43:36] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:43:36] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:43:36] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:43:36] [INFO] Scheduler started
+[2017-08-14 16:43:36] [DEBUG] Looking for jobs to run
+[2017-08-14 16:43:36] [DEBUG] Next wakeup is due at 2017-08-14 16:43:46.108924+09:00 (in 9.998923 seconds)
+[2017-08-14 16:43:46] [DEBUG] Looking for jobs to run
+[2017-08-14 16:43:46] [DEBUG] Next wakeup is due at 2017-08-14 16:43:56.108924+09:00 (in 9.999697 seconds)
+[2017-08-14 16:43:46] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:43:56 KST)" (scheduled at 2017-08-14 16:43:46.108924+09:00)
+[2017-08-14 16:43:46] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:43:46.552000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:43:46] [ERROR] [request.py(56)]:Exception parsing --> global name 'word' is not defined
+[2017-08-14 16:43:46] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:43:56 KST)" executed successfully
+[2017-08-14 16:43:56] [DEBUG] Looking for jobs to run
+[2017-08-14 16:43:56] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:43:56 KST)" (scheduled at 2017-08-14 16:43:56.108924+09:00)
+[2017-08-14 16:43:56] [DEBUG] Next wakeup is due at 2017-08-14 16:44:06.108924+09:00 (in 9.999351 seconds)
+[2017-08-14 16:43:56] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:43:56.308000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:43:56] [ERROR] [request.py(56)]:Exception parsing --> global name 'word' is not defined
+[2017-08-14 16:43:56] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:06 KST)" executed successfully
+[2017-08-14 16:43:57] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:43:58] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:43:58] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:43:58] [INFO] Scheduler started
+[2017-08-14 16:43:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:43:58] [DEBUG] Next wakeup is due at 2017-08-14 16:44:08.006492+09:00 (in 9.998947 seconds)
+[2017-08-14 16:44:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:08] [DEBUG] Next wakeup is due at 2017-08-14 16:44:18.006492+09:00 (in 9.999654 seconds)
+[2017-08-14 16:44:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:18 KST)" (scheduled at 2017-08-14 16:44:08.006492+09:00)
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:08.249000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:08.249000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:08.249000] buy_price:[    229650] sell_price:[    230150]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:08.249000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:08.249000] buy_price:[   4666000] sell_price:[   4667000]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:08.249000] buy_price:[    347750] sell_price:[    347800]
+[2017-08-14 16:44:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:08.249000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:18 KST)" executed successfully
+[2017-08-14 16:44:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:18 KST)" (scheduled at 2017-08-14 16:44:18.006492+09:00)
+[2017-08-14 16:44:18] [DEBUG] Next wakeup is due at 2017-08-14 16:44:28.006492+09:00 (in 9.999345 seconds)
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:18.256000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:18.256000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:18.256000] buy_price:[    229650] sell_price:[    230050]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:18.256000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:18.256000] buy_price:[   4666000] sell_price:[   4667000]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:18.256000] buy_price:[    347750] sell_price:[    347800]
+[2017-08-14 16:44:18] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:18.256000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:18] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:28 KST)" executed successfully
+[2017-08-14 16:44:28] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:28] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:28 KST)" (scheduled at 2017-08-14 16:44:28.006492+09:00)
+[2017-08-14 16:44:28] [DEBUG] Next wakeup is due at 2017-08-14 16:44:38.006492+09:00 (in 9.997574 seconds)
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:28.307000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:28.307000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:28.307000] buy_price:[    229650] sell_price:[    230150]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:28.307000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:28.307000] buy_price:[   4666000] sell_price:[   4668000]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:28.307000] buy_price:[    347700] sell_price:[    347750]
+[2017-08-14 16:44:28] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:28.307000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:38 KST)" executed successfully
+[2017-08-14 16:44:38] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:38] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:38 KST)" (scheduled at 2017-08-14 16:44:38.006492+09:00)
+[2017-08-14 16:44:38] [DEBUG] Next wakeup is due at 2017-08-14 16:44:48.006492+09:00 (in 9.997583 seconds)
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:38.274000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:38.274000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:38.274000] buy_price:[    229650] sell_price:[    230150]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:38.274000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:38.274000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:38.274000] buy_price:[    347650] sell_price:[    347700]
+[2017-08-14 16:44:38] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:38.274000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:38] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:48 KST)" executed successfully
+[2017-08-14 16:44:48] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:48] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:48 KST)" (scheduled at 2017-08-14 16:44:48.006492+09:00)
+[2017-08-14 16:44:48] [DEBUG] Next wakeup is due at 2017-08-14 16:44:58.006492+09:00 (in 9.997417 seconds)
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:48.369000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:48.369000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:48.369000] buy_price:[    229650] sell_price:[    230050]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:48.369000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:48.369000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:48.369000] buy_price:[    347650] sell_price:[    347700]
+[2017-08-14 16:44:48] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:48.369000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:48] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:58 KST)" executed successfully
+[2017-08-14 16:44:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:44:58] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:44:58 KST)" (scheduled at 2017-08-14 16:44:58.006492+09:00)
+[2017-08-14 16:44:58] [DEBUG] Next wakeup is due at 2017-08-14 16:45:08.006492+09:00 (in 9.997417 seconds)
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:44:59.005000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:44:59.005000] buy_price:[    357900] sell_price:[    358000]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:44:59.005000] buy_price:[    229650] sell_price:[    230000]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:44:59.005000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:44:59.005000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:44:59.005000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:44:58] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:44:59.005000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:44:58] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:08 KST)" executed successfully
+[2017-08-14 16:45:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:08 KST)" (scheduled at 2017-08-14 16:45:08.006492+09:00)
+[2017-08-14 16:45:08] [DEBUG] Next wakeup is due at 2017-08-14 16:45:18.006492+09:00 (in 9.996886 seconds)
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:08.264000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:08.264000] buy_price:[    357900] sell_price:[    358000]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:08.264000] buy_price:[    229650] sell_price:[    230000]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:08.264000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:08.264000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:08.264000] buy_price:[    347500] sell_price:[    347550]
+[2017-08-14 16:45:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:08.264000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:18 KST)" executed successfully
+[2017-08-14 16:45:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:18 KST)" (scheduled at 2017-08-14 16:45:18.006492+09:00)
+[2017-08-14 16:45:18] [DEBUG] Next wakeup is due at 2017-08-14 16:45:28.006492+09:00 (in 9.998007 seconds)
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:18.467000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:18.467000] buy_price:[    357900] sell_price:[    358000]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:18.467000] buy_price:[    229650] sell_price:[    230000]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:18.467000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:18.467000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:18.467000] buy_price:[    347500] sell_price:[    347550]
+[2017-08-14 16:45:18] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:18.467000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:18] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:28 KST)" executed successfully
+[2017-08-14 16:45:28] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:28] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:28 KST)" (scheduled at 2017-08-14 16:45:28.006492+09:00)
+[2017-08-14 16:45:28] [DEBUG] Next wakeup is due at 2017-08-14 16:45:38.006492+09:00 (in 9.998342 seconds)
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:28.773000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:28.773000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:28.773000] buy_price:[    229650] sell_price:[    230150]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:28.773000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:28.773000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:28.773000] buy_price:[    347500] sell_price:[    347650]
+[2017-08-14 16:45:28] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:28.773000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:38 KST)" executed successfully
+[2017-08-14 16:45:38] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:38] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:38 KST)" (scheduled at 2017-08-14 16:45:38.006492+09:00)
+[2017-08-14 16:45:38] [DEBUG] Next wakeup is due at 2017-08-14 16:45:48.006492+09:00 (in 9.997931 seconds)
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:38.420000] buy_price:[     52740] sell_price:[     52750]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:38.420000] buy_price:[    358000] sell_price:[    358100]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:38.420000] buy_price:[    229650] sell_price:[    230050]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:38.420000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:38.420000] buy_price:[   4668000] sell_price:[   4669000]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:38.420000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:45:38] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:38.420000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:38] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:48 KST)" executed successfully
+[2017-08-14 16:45:48] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:48] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:48 KST)" (scheduled at 2017-08-14 16:45:48.006492+09:00)
+[2017-08-14 16:45:48] [DEBUG] Next wakeup is due at 2017-08-14 16:45:58.006492+09:00 (in 9.997791 seconds)
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:48.279000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:48.279000] buy_price:[    357900] sell_price:[    358000]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:48.279000] buy_price:[    229700] sell_price:[    230000]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:48.279000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:48.279000] buy_price:[   4667000] sell_price:[   4668000]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:48.279000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:45:48] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:48.279000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:48] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:58 KST)" executed successfully
+[2017-08-14 16:45:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:45:58] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:45:58 KST)" (scheduled at 2017-08-14 16:45:58.006492+09:00)
+[2017-08-14 16:45:58] [DEBUG] Next wakeup is due at 2017-08-14 16:46:08.006492+09:00 (in 9.997297 seconds)
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:45:58.476000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:45:58.476000] buy_price:[    357600] sell_price:[    358100]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:45:58.476000] buy_price:[    229700] sell_price:[    230000]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:45:58.476000] buy_price:[     16540] sell_price:[     16550]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:45:58.476000] buy_price:[   4667000] sell_price:[   4668000]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:45:58.476000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:45:58] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:45:58.476000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:45:58] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:08 KST)" executed successfully
+[2017-08-14 16:46:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:08 KST)" (scheduled at 2017-08-14 16:46:08.006492+09:00)
+[2017-08-14 16:46:08] [DEBUG] Next wakeup is due at 2017-08-14 16:46:18.006492+09:00 (in 9.997066 seconds)
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:08.453000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:08.453000] buy_price:[    357600] sell_price:[    358100]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:08.453000] buy_price:[    229700] sell_price:[    230000]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:08.453000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:08.453000] buy_price:[   4667000] sell_price:[   4668000]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:08.453000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:46:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:08.453000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:18 KST)" executed successfully
+[2017-08-14 16:46:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:18 KST)" (scheduled at 2017-08-14 16:46:18.006492+09:00)
+[2017-08-14 16:46:18] [DEBUG] Next wakeup is due at 2017-08-14 16:46:28.006492+09:00 (in 9.997620 seconds)
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:18.606000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:18.606000] buy_price:[    357600] sell_price:[    358000]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:18.606000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:18.606000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:18.606000] buy_price:[   4667000] sell_price:[   4668000]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:18.606000] buy_price:[    347550] sell_price:[    347650]
+[2017-08-14 16:46:18] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:18.606000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:18] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:28 KST)" executed successfully
+[2017-08-14 16:46:28] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:28] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:28 KST)" (scheduled at 2017-08-14 16:46:28.006492+09:00)
+[2017-08-14 16:46:28] [DEBUG] Next wakeup is due at 2017-08-14 16:46:38.006492+09:00 (in 9.997224 seconds)
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:28.335000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:28.335000] buy_price:[    357500] sell_price:[    358000]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:28.335000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:28.335000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:28.335000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:28.335000] buy_price:[    347650] sell_price:[    347800]
+[2017-08-14 16:46:28] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:28.335000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:38 KST)" executed successfully
+[2017-08-14 16:46:38] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:38] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:38 KST)" (scheduled at 2017-08-14 16:46:38.006492+09:00)
+[2017-08-14 16:46:38] [DEBUG] Next wakeup is due at 2017-08-14 16:46:48.006492+09:00 (in 9.998021 seconds)
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:38.575000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:38.575000] buy_price:[    357500] sell_price:[    358000]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:38.575000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:38.575000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:38.575000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:38.575000] buy_price:[    347650] sell_price:[    347800]
+[2017-08-14 16:46:38] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:38.575000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:38] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:48 KST)" executed successfully
+[2017-08-14 16:46:48] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:48] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:48 KST)" (scheduled at 2017-08-14 16:46:48.006492+09:00)
+[2017-08-14 16:46:48] [DEBUG] Next wakeup is due at 2017-08-14 16:46:58.006492+09:00 (in 9.997808 seconds)
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:48.258000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:48.258000] buy_price:[    357300] sell_price:[    357900]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:48.258000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:48.258000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:48.258000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:48.258000] buy_price:[    347800] sell_price:[    348000]
+[2017-08-14 16:46:48] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:48.258000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:48] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:58 KST)" executed successfully
+[2017-08-14 16:46:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:46:58] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:46:58 KST)" (scheduled at 2017-08-14 16:46:58.006492+09:00)
+[2017-08-14 16:46:58] [DEBUG] Next wakeup is due at 2017-08-14 16:47:08.006492+09:00 (in 9.997875 seconds)
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:46:58.282000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:46:58.282000] buy_price:[    357300] sell_price:[    357900]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:46:58.282000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:46:58.282000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:46:58.282000] buy_price:[   4668000] sell_price:[   4670000]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:46:58.282000] buy_price:[    347650] sell_price:[    348000]
+[2017-08-14 16:46:58] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:46:58.282000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:46:58] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:08 KST)" executed successfully
+[2017-08-14 16:47:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:08 KST)" (scheduled at 2017-08-14 16:47:08.006492+09:00)
+[2017-08-14 16:47:08] [DEBUG] Next wakeup is due at 2017-08-14 16:47:18.006492+09:00 (in 9.998168 seconds)
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:08.326000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:08.326000] buy_price:[    357200] sell_price:[    357800]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:08.326000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:08.326000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:08.326000] buy_price:[   4670000] sell_price:[   4671000]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:08.326000] buy_price:[    347700] sell_price:[    347800]
+[2017-08-14 16:47:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:08.326000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:18 KST)" executed successfully
+[2017-08-14 16:47:18] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:18] [DEBUG] Next wakeup is due at 2017-08-14 16:47:28.006492+09:00 (in 9.998143 seconds)
+[2017-08-14 16:47:18] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:28 KST)" (scheduled at 2017-08-14 16:47:18.006492+09:00)
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:18.391000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:18.391000] buy_price:[    357300] sell_price:[    357800]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:18.391000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:18.391000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:18.391000] buy_price:[   4670000] sell_price:[   4672000]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:18.391000] buy_price:[    347700] sell_price:[    347800]
+[2017-08-14 16:47:18] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:18.391000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:18] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:28 KST)" executed successfully
+[2017-08-14 16:47:28] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:28] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:28 KST)" (scheduled at 2017-08-14 16:47:28.006492+09:00)
+[2017-08-14 16:47:28] [DEBUG] Next wakeup is due at 2017-08-14 16:47:38.006492+09:00 (in 9.999501 seconds)
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:28.281000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:28.281000] buy_price:[    357300] sell_price:[    357700]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:28.281000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:28.281000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:28.281000] buy_price:[   4671000] sell_price:[   4672000]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:28.281000] buy_price:[    347800] sell_price:[    348000]
+[2017-08-14 16:47:28] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:28.281000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:28] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:38 KST)" executed successfully
+[2017-08-14 16:47:38] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:38] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:38 KST)" (scheduled at 2017-08-14 16:47:38.006492+09:00)
+[2017-08-14 16:47:38] [DEBUG] Next wakeup is due at 2017-08-14 16:47:48.006492+09:00 (in 9.997905 seconds)
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:39.764000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:39.764000] buy_price:[    357300] sell_price:[    357700]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:39.764000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:39.764000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:39.764000] buy_price:[   4671000] sell_price:[   4672000]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:39.764000] buy_price:[    347850] sell_price:[    348000]
+[2017-08-14 16:47:39] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:39.764000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:39] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:48 KST)" executed successfully
+[2017-08-14 16:47:48] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:48] [DEBUG] Next wakeup is due at 2017-08-14 16:47:58.006492+09:00 (in 9.998300 seconds)
+[2017-08-14 16:47:48] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:58 KST)" (scheduled at 2017-08-14 16:47:48.006492+09:00)
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:50.955000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:50.955000] buy_price:[    357300] sell_price:[    357600]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:50.955000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:50.955000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:50.955000] buy_price:[4668000.00000000] sell_price:[4670000.00000000]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:50.955000] buy_price:[    347800] sell_price:[    348000]
+[2017-08-14 16:47:50] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:50.955000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:50] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:58 KST)" executed successfully
+[2017-08-14 16:47:58] [DEBUG] Looking for jobs to run
+[2017-08-14 16:47:58] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:47:58 KST)" (scheduled at 2017-08-14 16:47:58.006492+09:00)
+[2017-08-14 16:47:58] [DEBUG] Next wakeup is due at 2017-08-14 16:48:08.006492+09:00 (in 9.999499 seconds)
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:47:58.277000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:47:58.277000] buy_price:[    357200] sell_price:[    357600]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:47:58.277000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:47:58.277000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:47:58.277000] buy_price:[   4671000] sell_price:[   4673000]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:47:58.277000] buy_price:[    347800] sell_price:[    348000]
+[2017-08-14 16:47:58] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:47:58.277000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:47:58] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:08 KST)" executed successfully
+[2017-08-14 16:48:08] [DEBUG] Looking for jobs to run
+[2017-08-14 16:48:08] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:08 KST)" (scheduled at 2017-08-14 16:48:08.006492+09:00)
+[2017-08-14 16:48:08] [DEBUG] Next wakeup is due at 2017-08-14 16:48:18.006492+09:00 (in 9.997414 seconds)
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:48:08.851000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    BCH] date:[2017-08-14 16:48:08.851000] buy_price:[    357100] sell_price:[    357200]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[   DASH] date:[2017-08-14 16:48:08.851000] buy_price:[    229750] sell_price:[    230000]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    ETC] date:[2017-08-14 16:48:08.851000] buy_price:[     16535] sell_price:[     16540]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    BTC] date:[2017-08-14 16:48:08.851000] buy_price:[   4671000] sell_price:[   4673000]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    ETH] date:[2017-08-14 16:48:08.851000] buy_price:[    347800] sell_price:[    348000]
+[2017-08-14 16:48:08] [INFO] [request.py(47)]:Response: coin:[    XRP] date:[2017-08-14 16:48:08.851000] buy_price:[       198] sell_price:[       199]
+[2017-08-14 16:48:08] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:18 KST)" executed successfully
+[2017-08-14 16:48:10] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:48:10] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:48:10] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:48:10] [INFO] Scheduler started
+[2017-08-14 16:48:10] [DEBUG] Looking for jobs to run
+[2017-08-14 16:48:10] [DEBUG] Next wakeup is due at 2017-08-14 16:48:20.465808+09:00 (in 9.999000 seconds)
+[2017-08-14 16:48:20] [DEBUG] Looking for jobs to run
+[2017-08-14 16:48:20] [DEBUG] Next wakeup is due at 2017-08-14 16:48:30.465808+09:00 (in 9.999652 seconds)
+[2017-08-14 16:48:20] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:30 KST)" (scheduled at 2017-08-14 16:48:20.465808+09:00)
+[2017-08-14 16:48:20] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:48:20.741000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:48:20] [ERROR] [request.py(56)]:Exception parsing --> MSET requires **kwargs or a single dict arg
+[2017-08-14 16:48:20] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:30 KST)" executed successfully
+[2017-08-14 16:48:35] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:48:35] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:48:35] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:48:35] [INFO] Scheduler started
+[2017-08-14 16:48:35] [DEBUG] Looking for jobs to run
+[2017-08-14 16:48:35] [DEBUG] Next wakeup is due at 2017-08-14 16:48:45.427990+09:00 (in 9.998742 seconds)
+[2017-08-14 16:48:45] [DEBUG] Looking for jobs to run
+[2017-08-14 16:48:45] [DEBUG] Next wakeup is due at 2017-08-14 16:48:55.427990+09:00 (in 9.999652 seconds)
+[2017-08-14 16:48:45] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:55 KST)" (scheduled at 2017-08-14 16:48:45.427990+09:00)
+[2017-08-14 16:48:45] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:48:45.913000] buy_price:[     52730] sell_price:[     52750]
+[2017-08-14 16:48:45] [ERROR] [request.py(56)]:Exception parsing --> MSET requires **kwargs or a single dict arg
+[2017-08-14 16:48:45] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:48:55 KST)" executed successfully
+[2017-08-14 16:53:35] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:53:35] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:53:35] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:53:35] [INFO] Scheduler started
+[2017-08-14 16:53:35] [DEBUG] Looking for jobs to run
+[2017-08-14 16:53:35] [DEBUG] Next wakeup is due at 2017-08-14 16:53:45.621253+09:00 (in 9.998745 seconds)
+[2017-08-14 16:53:45] [DEBUG] Looking for jobs to run
+[2017-08-14 16:53:45] [DEBUG] Next wakeup is due at 2017-08-14 16:53:55.621253+09:00 (in 9.999678 seconds)
+[2017-08-14 16:53:45] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:53:55 KST)" (scheduled at 2017-08-14 16:53:45.621253+09:00)
+[2017-08-14 16:53:45] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:53:45.935000] buy_price:[     52700] sell_price:[     52750]
+[2017-08-14 16:53:45] [ERROR] [request.py(56)]:Exception parsing --> a float is required
+[2017-08-14 16:53:45] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:53:55 KST)" executed successfully
+[2017-08-14 16:58:31] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:58:31] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:58:31] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:58:31] [INFO] Scheduler started
+[2017-08-14 16:58:31] [DEBUG] Looking for jobs to run
+[2017-08-14 16:58:31] [DEBUG] Next wakeup is due at 2017-08-14 16:58:41.338260+09:00 (in 9.998889 seconds)
+[2017-08-14 16:58:41] [DEBUG] Looking for jobs to run
+[2017-08-14 16:58:41] [DEBUG] Next wakeup is due at 2017-08-14 16:58:51.338260+09:00 (in 9.999549 seconds)
+[2017-08-14 16:58:41] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:58:51 KST)" (scheduled at 2017-08-14 16:58:41.338260+09:00)
+[2017-08-14 16:58:41] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:58:41.678000] buy_price:[     52700] sell_price:[     52750]
+[2017-08-14 16:58:41] [ERROR] [request.py(56)]:Exception parsing --> 'str' object has no attribute 'iteritems'
+[2017-08-14 16:58:41] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:58:51 KST)" executed successfully
+[2017-08-14 16:58:51] [DEBUG] Looking for jobs to run
+[2017-08-14 16:58:51] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:58:51 KST)" (scheduled at 2017-08-14 16:58:51.338260+09:00)
+[2017-08-14 16:58:51] [DEBUG] Next wakeup is due at 2017-08-14 16:59:01.338260+09:00 (in 9.998981 seconds)
+[2017-08-14 16:58:52] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:58:52.256000] buy_price:[     52700] sell_price:[     52750]
+[2017-08-14 16:58:52] [ERROR] [request.py(56)]:Exception parsing --> 'str' object has no attribute 'iteritems'
+[2017-08-14 16:58:52] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:59:01 KST)" executed successfully
+[2017-08-14 16:59:06] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 16:59:06] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 16:59:06] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 16:59:06] [INFO] Scheduler started
+[2017-08-14 16:59:06] [DEBUG] Looking for jobs to run
+[2017-08-14 16:59:06] [DEBUG] Next wakeup is due at 2017-08-14 16:59:16.198843+09:00 (in 9.999239 seconds)
+[2017-08-14 16:59:16] [DEBUG] Looking for jobs to run
+[2017-08-14 16:59:16] [DEBUG] Next wakeup is due at 2017-08-14 16:59:26.198843+09:00 (in 9.999638 seconds)
+[2017-08-14 16:59:16] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:59:26 KST)" (scheduled at 2017-08-14 16:59:16.198843+09:00)
+[2017-08-14 16:59:16] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 16:59:16.569000] buy_price:[     52700] sell_price:[     52750]
+[2017-08-14 16:59:16] [ERROR] [request.py(56)]:Exception parsing --> hset() takes exactly 4 arguments (3 given)
+[2017-08-14 16:59:16] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 16:59:26 KST)" executed successfully
+[2017-08-14 17:02:27] [INFO] [log_util.py(10)]:::: Initialized the base logger :::
+[2017-08-14 17:02:27] [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[2017-08-14 17:02:27] [INFO] Added job "QueryCoin.query_all_price" to job store "default"
+[2017-08-14 17:02:27] [INFO] Scheduler started
+[2017-08-14 17:02:27] [DEBUG] Looking for jobs to run
+[2017-08-14 17:02:27] [DEBUG] Next wakeup is due at 2017-08-14 17:02:37.089184+09:00 (in 9.998671 seconds)
+[2017-08-14 17:02:37] [DEBUG] Looking for jobs to run
+[2017-08-14 17:02:37] [DEBUG] Next wakeup is due at 2017-08-14 17:02:47.089184+09:00 (in 9.999630 seconds)
+[2017-08-14 17:02:37] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 17:02:47 KST)" (scheduled at 2017-08-14 17:02:37.089184+09:00)
+[2017-08-14 17:02:37] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 17:02:37.852000] buy_price:[     52690] sell_price:[     52700]
+[2017-08-14 17:02:37] [ERROR] [request.py(56)]:Exception parsing --> a float is required
+[2017-08-14 17:02:37] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 17:02:47 KST)" executed successfully
+[2017-08-14 17:02:47] [DEBUG] Looking for jobs to run
+[2017-08-14 17:02:47] [INFO] Running job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 17:02:47 KST)" (scheduled at 2017-08-14 17:02:47.089184+09:00)
+[2017-08-14 17:02:47] [DEBUG] Next wakeup is due at 2017-08-14 17:02:57.089184+09:00 (in 9.999343 seconds)
+[2017-08-14 17:02:47] [INFO] [request.py(47)]:Response: coin:[    LTC] date:[2017-08-14 17:02:47.608000] buy_price:[     52680] sell_price:[     52700]
+[2017-08-14 17:02:47] [ERROR] [request.py(56)]:Exception parsing --> a float is required
+[2017-08-14 17:02:47] [INFO] Job "QueryCoin.query_all_price (trigger: interval[0:00:10], next run at: 2017-08-14 17:02:57 KST)" executed successfully

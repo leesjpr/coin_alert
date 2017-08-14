@@ -3,11 +3,12 @@ import getopt
 import io
 import sys
 
-import common.exception as exc
-import common.log_util
-from common.request import QueryCoin
-from common.single_instance import SingleInstance
+import exception as exc
+import log_util
+from single_instance import SingleInstance
 
+from monitor.request import QueryCoin
+from redis_hdr import RedisHandler
 
 
 def usage():
@@ -84,5 +85,13 @@ if __name__ == '__main__':
         sys.exit(1)
 
     SingleInstance.set('log', base_log)
+
+    host = settings['redis']['host']
+    port = settings['redis']['port']
+    auth = settings['redis']['auth']
+    timeout = settings['redis']['timeout']
+    redis = RedisHandler(host, port, password=auth, timeout=timeout)
+    SingleInstance.set('redis', redis.redis)
+
     query = QueryCoin()
     query.query_scheduler()

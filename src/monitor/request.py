@@ -26,24 +26,48 @@ class QueryCoin(object):
                 raise exc.ResponseStatusError("Status is not 0000 [%s][%s]"
                         % (request_url, response['status']))
 
-            #raise exc.ResponseTimeoutError("Requests timeout [%s]" % (request_url))
-
         except Exception, err:
             self.log.error("Exception request_api %s" % str(err))
+            return {}
 
 
-    def query_current_price(self, coin, default_url):
-        request_url = default_url + coin
+    def query_all_price(self, default_url):
+        request_url = default_url + "ALL"
         response = self._request_api(request_url)['data']
-        print response
-
-        buy_price = response['buy_price']
-        sell_price = response['sell_price']
-        max_price = response['max_price']
-        min_price = response['min_price']
         date = datetime.datetime.fromtimestamp(int(response['date']) / 1e3)
+        try:
+            if len(response) > 0:
+                del response['date']
+                for coin, detail  in response.iteritems():
+                    buy_price = detail['buy_price']
+                    sell_price = detail['sell_price']
+                    max_price = detail['max_price']
+                    min_price = detail['min_price']
+                    self.log.info("Response: coin:[%7s] date:[%10s] buy_price:[%10s] sell_price:[%10s]"\
+                            % (coin, date, buy_price, sell_price))
 
-        self.log.info("Response: coin:[%s] date:[%s] buy_price:[%s] sell_price:[%s]" % (coin, date, buy_price, sell_price))
+                    self.insert_price_into_redis(coin, date, detail)
+            else:
+                raise exception()
+
+
+
+        except Exception, err:
+            self.log.error("Exception parsing --> %s" % str(err))
+
+
+    def insert_price_into_redis(self, coin, date, detail):
+        redis = SingleInstance.get('redis')
+        day = date.strftime("%Y%m%d")
+        time = date.strftime("%H%M%S")
+        #char = '0'
+        #index = 5
+        #time = time[:index] + char + time[index + 1:]
+
+        key = "%s:%s:%s" % (coin, day, time)
+        info = json.dumps(detail)
+        redis.set(key, info)
+
 
     def query_scheduler(self):
         coins = self.settings['target']['coins'].split(',')
@@ -52,15 +76,14 @@ class QueryCoin(object):
         sched = BackgroundScheduler()
 
         # TODO multiprocess per coin type
-        for coin in coins:
-            sched.add_job(self.query_current_price, 'interval', \
-                    seconds=query_interval, \
-                    id=coin, args=(coin, default_url))
+        sched.add_job(self.query_all_price, 'interval', \
+                seconds=query_interval, \
+                id="monitoring", args=[default_url])
 
         sched.start()
         try:
             while True:
-                time.sleep(2)
+                time.sleep(1)
         except (KeyboardInterrupt, SystemExit):
             scheduler.shutdown()
 
