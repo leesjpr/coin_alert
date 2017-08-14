@@ -3,10 +3,10 @@ import getopt
 import io
 import sys
 
-import exception as exc
-import log_util
-from request import QueryCoin
-from single_instance import SingleInstance
+import common.exception as exc
+import common.log_util
+from common.request import QueryCoin
+from common.single_instance import SingleInstance
 
 
 
