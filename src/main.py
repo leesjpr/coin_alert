@@ -9,6 +9,7 @@ from single_instance import SingleInstance
 
 from monitor.request import QueryCoin
 from redis_hdr import RedisHandler
+from alert.notification import NotificationBot
 
 
 def usage():
@@ -90,8 +91,13 @@ if __name__ == '__main__':
     port = settings['redis']['port']
     auth = settings['redis']['auth']
     timeout = settings['redis']['timeout']
-    redis = RedisHandler(host, port, password=auth, timeout=timeout)
-    SingleInstance.set('redis', redis.redis)
+    redis_hdr = RedisHandler(host, port, password=auth)
+    SingleInstance.set('redis', redis_hdr.redis)
+
+    noti = NotificationBot()
+    SingleInstance.set('notibot', noti)
 
     query = QueryCoin()
     query.query_scheduler()
+
+

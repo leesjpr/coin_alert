@@ -11,6 +11,8 @@ class RedisHandler(object):
         self.log = SingleInstance.get('log')
         self.redis = self.connection()
 
+        print self.redis.get("foo")
+
 
     def running(self):
         return self._running
@@ -20,10 +22,9 @@ class RedisHandler(object):
         try:
             conn = redis.StrictRedis(host=self.addr, port=self.port, password=self.password, socket_timeout=self.timeout)
             self._running = True
-            #self.log.info("Connection Redis host: %s port: %s" % (self.addr, self.port))
+            self.log.info("Connected Redis host: %s port: %s" % (self.addr, self.port))
         except Exception, err:
-            print str(err)
-            #self.log.error("Fail Redis connection!! --> [%s]" % str(err))
+            self.log.error("Fail Redis connection!! --> [%s]" % str(err))
 
         return conn
 
@@ -36,6 +37,4 @@ class RedisHandler(object):
 
 if __name__ == "__main__":
     redis_hdr = RedisHandler("127.0.0.1", "6379", "job_searcher")
-    redis_hdr.redis.set('foo', 'bar')
-    redis_hdr.redis.get("foo")
 

@@ -49,9 +49,6 @@ class QueryCoin(object):
                     self.insert_price_into_redis(coin, date, detail)
             else:
                 raise exception()
-
-
-
         except Exception, err:
             self.log.error("Exception parsing --> %s" % str(err))
 
@@ -59,14 +56,25 @@ class QueryCoin(object):
     def insert_price_into_redis(self, coin, date, detail):
         redis = SingleInstance.get('redis')
         day = date.strftime("%Y%m%d")
-        time = date.strftime("%H%M%S")
-        #char = '0'
-        #index = 5
-        #time = time[:index] + char + time[index + 1:]
+        hour = date.strftime("%H")
+        time = date.strftime("%M%S")
 
-        key = "%s:%s:%s" % (coin, day, time)
-        info = json.dumps(detail)
-        redis.set(key, info)
+
+        value = {}
+        key = "monitor:%s:%s:%s" % (coin, day, hour)
+        value[time] = json.dumps(detail)
+
+        try:
+            redis.hmset(key, value)
+
+        except Exception, err:
+            print str(err)
+
+        alert_target = self.settings['target']['coins'].split(",")
+        notibot = SingleInstance.get('notibot')
+
+        if coin.lower() in alert_target:
+            notibot.default_notification(date, coin, detail)
 
 
     def query_scheduler(self):
