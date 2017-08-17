@@ -7,9 +7,11 @@ class NotificationBot(object):
         self.log = SingleInstance.get('log')
         self._token = self.settings['telegram']['token']
         self._chat_id = self.settings['telegram']['chat_id']
-        self.initialize_bot()
         self.tlg_bot = None
+        self.initialize_bot()
         self.redis = SingleInstance.get('redis')
+        self.alert_time = {}
+        self.set_default_time_bucket()
 
 
     def initialize_bot(self):
@@ -20,8 +22,16 @@ class NotificationBot(object):
             self.log.error("Bot creation failure!! --> %s" % str(err))
 
 
+    def set_default_time_bucket(self):
+        default_alert_interval = ['day', 'hour', 'minute', 'second']
+        for interval in default_alert_interval:
+            self.alert_time[interval] = {}
+            for coin in self.settings['target']['coins'].split(','):
+                self.alert_time[interval][coin.upper()] = None
+
+
     def send_message(self, msg):
-        self.tlg_bot.sendMessage(chat_id = self.chat_id, text=msg)
+        self.tlg_bot.sendMessage(chat_id = self._chat_id, text=msg)
 
 
     def default_notification(self, date, coin, price_info):
@@ -32,44 +42,22 @@ class NotificationBot(object):
 
         time_bucket['day'] = date.strftime("%Y%m%d")
         time_bucket['hour'] = date.strftime("%H")
-        time_bucket['minut'] = date.strftime("%M")
+        time_bucket['minute'] = date.strftime("%M")
         time_bucket['second'] = date
 
-        msg = "[Default price notification]\n \
-                [[coin]]\n\
-                10%s: 10%s\n\
-                10%s: 10%s\n\
-                10%s: 10%s\n\
-                10%s: 10%s\n"\
-                % ("max price", price_info["max_price"], "min price", \
-                    price_info["min_price"], "buy price", \
-                    price_info["buy_price"],"sell price", \
-                        price_info["sell_price"])
+        msg = "[Default price notification]\n[[%s]]\n\
+            %10s: %10s\n\
+            %10s: %10s\n\
+            %10s: %10s\n\
+            %10s: %10s\n"\
+            % (coin, "max price", price_info["max_price"], \
+            "min price", price_info["min_price"],\
+            "buy price", price_info["buy_price"],\
+            "sell price", price_info["sell_price"])
 
-        alert_time = None
-
-        if interval == 'day':
-            if alert_time != time_bucket['day']:
-                self.send_message(msg)
-                alert_time = time_bucket['day']
-        elif interval == 'hour':
-            if alert_time != time_bucket['hour']:
-                self.send_message(msg)
-                alert_time = time_bucket['hour']
-        elif interval == 'minut':
-            if alert_time != time_bucket['minut']:
-                self.send_message(msg)
-                alert_time = time_bucket['minut']
-        elif interval == 'second':
-            if alert_time != time_bucket['second']:
-                self.send_message(msg)
-                alert_time = time_bucket['second']
-
-
-
-
-
-
+        if self.alert_time[interval][coin] != time_bucket[interval]:
+            self.send_message(msg)
+            self.alert_time[interval][coin] = time_bucket[interval]
 
 if __name__ == "__main__":
     pass
