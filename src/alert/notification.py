@@ -1,5 +1,7 @@
+import locale
 import telegram
 from single_instance import SingleInstance
+
 
 class NotificationBot(object):
     def __init__(self):
@@ -45,15 +47,22 @@ class NotificationBot(object):
         time_bucket['minute'] = date.strftime("%M")
         time_bucket['second'] = date
 
-        msg = "[Default price notification]\n[[%s]]\n\
-            %10s: %10s\n\
-            %10s: %10s\n\
-            %10s: %10s\n\
-            %10s: %10s\n"\
-            % (coin, "max price", price_info["max_price"], \
-            "min price", price_info["min_price"],\
-            "buy price", price_info["buy_price"],\
-            "sell price", price_info["sell_price"])
+        locale.setlocale(locale.LC_ALL, '')
+        max_price = locale.format("%d", int(price_info["max_price"]), 1)
+        min_price = locale.format("%d", int(price_info["min_price"]), grouping=True)
+        buy_price = locale.format("%d", int(price_info["buy_price"]), grouping=True)
+        sell_price = locale.format("%d",int(price_info["sell_price"]), grouping=True)
+
+        msg = \
+        """
+        [Default price notification]
+        [[%s]]
+        %s: %s
+        %s: %s
+        %s: %s
+        %s: %s
+        """ % (coin, "max price", max_price, "min price", \
+            min_price,"buy price", buy_price,"sell price", sell_price)
 
         if self.alert_time[interval][coin] != time_bucket[interval]:
             self.send_message(msg)
