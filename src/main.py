@@ -94,7 +94,8 @@ if __name__ == '__main__':
     redis_hdr = RedisHandler(host, port, password=auth)
     SingleInstance.set('redis', redis_hdr.redis)
 
-    noti = NotificationBot()
+    tlg_file_path = settings['alert']['tlg_file']
+    noti = NotificationBot(tlg_file_path)
     SingleInstance.set('notibot', noti)
 
     query = QueryCoin()
